@@ -2,7 +2,7 @@
 Single-liner morphological codes for all words in Hebrew Bible (Biblia Hebraica Stuttgartensia, BHS, 5th edition)<br />
 This work is built on raw materials found at: https://github.com/ETCBC/text-fabric-data<br />
 <br />
-ETCBC database offers data covering morphology of all words in the text of BHS.  However, morphological data of each single word are distributed into few different files.  This project aims to simply generate single-liner morphological codes for all BHS words.  This set of one-liner codes could be useful for creating end-user files, like bible or dictionary modules.<br />
+ETCBC database offers data covering morphology of all words in the text of BHS.  However, morphological data of each single word are distributed into few different files (e.g. gn.tf, nu.tf, ps.tf, st.tf, etc.).  This work aims to simply generate single-liner morphological codes for all BHS words.  This set of single-liner codes could be useful for creating end-user files, like bible or dictionary modules.<br />
 <br />
 <h2>Hebrew Text</h2>
 <p>
