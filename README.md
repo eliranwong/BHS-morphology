@@ -1,7 +1,9 @@
 # BHS-morphology
-One-liner morphological codes for all words in Hebrew Bible (Biblia Hebraica Stuttgartensia, BHS, 5th edition)<br />
+Single-liner morphological codes for all words in Hebrew Bible (Biblia Hebraica Stuttgartensia, BHS, 5th edition)<br />
+This work is built on raw materials found at: https://github.com/ETCBC/text-fabric-data<br />
 <br />
-ETCBC database offers data covering morphology of all words in the text of BHS.  However, morphological data of each single word are scattered into few different TF files.  This project aims to simply generate one-liner morphological codes for all BHS words.  This set of one-liner codes could be useful for creating end-user files, like bible or dictionary modules.<br /><br />
+ETCBC database offers data covering morphology of all words in the text of BHS.  However, morphological data of each single word are distributed into few different files.  This project aims to simply generate single-liner morphological codes for all BHS words.  This set of one-liner codes could be useful for creating end-user files, like bible or dictionary modules.<br />
+<br />
 <h2>Hebrew Text</h2>
 <p>
 The Hebrew text shown in SHEBANQ is taken from: Biblia Hebraica Stuttgartensia, edited by Karl Elliger and Wilhelm Rudolph, Fifth Revised Edition, edited by Adrian Schenker, © 1977 and 1997 Deutsche Bibelgesellschaft, Stuttgart.
