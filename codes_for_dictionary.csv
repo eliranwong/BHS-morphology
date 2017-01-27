@@ -1,0 +1,651 @@
+adjv.f.pl.a	adjective, feminine, plural, absolute
+adjv.f.pl.c	adjective, feminine, plural, construct
+adjv.f.pl.e	adjective, feminine, plural, emphatic
+adjv.f.sg.a	adjective, feminine, singular, absolute
+adjv.f.sg.c	adjective, feminine, singular, construct
+adjv.f.sg.e	adjective, feminine, singular, emphatic
+adjv.haf.ptca.u.m.sg.a	adjective, haf‘el, participle, unknown, masculine, singular, absolute
+adjv.hif.ptca.u.f.pl.a	adjective, hif‘il, participle, unknown, feminine, plural, absolute
+adjv.hif.ptca.u.f.sg.a	adjective, hif‘il, participle, unknown, feminine, singular, absolute
+adjv.hif.ptca.u.f.sg.c	adjective, hif‘il, participle, unknown, feminine, singular, construct
+adjv.hif.ptca.u.m.pl.a	adjective, hif‘il, participle, unknown, masculine, plural, absolute
+adjv.hif.ptca.u.m.pl.c	adjective, hif‘il, participle, unknown, masculine, plural, construct
+adjv.hif.ptca.u.m.sg.a	adjective, hif‘il, participle, unknown, masculine, singular, absolute
+adjv.hif.ptca.u.m.sg.c	adjective, hif‘il, participle, unknown, masculine, singular, construct
+adjv.hit.ptca.u.m.pl.a	adjective, hitpa“el, participle, unknown, masculine, plural, absolute
+adjv.hit.ptca.u.m.sg.a	adjective, hitpa“el, participle, unknown, masculine, singular, absolute
+adjv.hof.ptcp.u.f.pl.a	adjective, hof‘al, participle (passive), unknown, feminine, plural, absolute
+adjv.hof.ptcp.u.f.pl.c	adjective, hof‘al, participle (passive), unknown, feminine, plural, construct
+adjv.hof.ptcp.u.f.sg.a	adjective, hof‘al, participle (passive), unknown, feminine, singular, absolute
+adjv.hof.ptcp.u.m.sg.a	adjective, hof‘al, participle (passive), unknown, masculine, singular, absolute
+adjv.hof.ptcp.u.m.sg.c	adjective, hof‘al, participle (passive), unknown, masculine, singular, construct
+adjv.m.pl.a	adjective, masculine, plural, absolute
+adjv.m.pl.c	adjective, masculine, plural, construct
+adjv.m.sg.a	adjective, masculine, singular, absolute
+adjv.m.sg.c	adjective, masculine, singular, construct
+adjv.m.sg.e	adjective, masculine, singular, emphatic
+adjv.nif.ptca.u.f.pl.a	adjective, nif‘al, participle, unknown, feminine, plural, absolute
+adjv.nif.ptca.u.f.sg.a	adjective, nif‘al, participle, unknown, feminine, singular, absolute
+adjv.nif.ptca.u.m.pl.a	adjective, nif‘al, participle, unknown, masculine, plural, absolute
+adjv.nif.ptca.u.m.pl.c	adjective, nif‘al, participle, unknown, masculine, plural, construct
+adjv.nif.ptca.u.m.sg.a	adjective, nif‘al, participle, unknown, masculine, singular, absolute
+adjv.nif.ptca.u.m.sg.c	adjective, nif‘al, participle, unknown, masculine, singular, construct
+adjv.pael.ptcp.u.m.sg.a	adjective, pa“el, participle (passive), unknown, masculine, singular, absolute
+adjv.pasq.ptcp.u.f.sg.a	adjective, passiveqal, participle (passive), unknown, feminine, singular, absolute
+adjv.pasq.ptcp.u.m.sg.a	adjective, passiveqal, participle (passive), unknown, masculine, singular, absolute
+adjv.peal.ptca.u.f.sg.e	adjective, pe‘al, participle, unknown, feminine, singular, emphatic
+adjv.peal.ptca.u.m.pl.a	adjective, pe‘al, participle, unknown, masculine, plural, absolute
+adjv.peal.ptca.u.m.sg.a	adjective, pe‘al, participle, unknown, masculine, singular, absolute
+adjv.peal.ptcp.u.f.sg.a	adjective, pe‘al, participle (passive), unknown, feminine, singular, absolute
+adjv.peal.ptcp.u.m.sg.a	adjective, pe‘al, participle (passive), unknown, masculine, singular, absolute
+adjv.piel.ptca.u.f.pl.a	adjective, pi“el, participle, unknown, feminine, plural, absolute
+adjv.piel.ptca.u.f.pl.c	adjective, pi“el, participle, unknown, feminine, plural, construct
+adjv.piel.ptca.u.f.sg.a	adjective, pi“el, participle, unknown, feminine, singular, absolute
+adjv.piel.ptca.u.m.pl.a	adjective, pi“el, participle, unknown, masculine, plural, absolute
+adjv.piel.ptca.u.m.sg.a	adjective, pi“el, participle, unknown, masculine, singular, absolute
+adjv.pual.ptcp.u.f.pl.a	adjective, pu“al, participle (passive), unknown, feminine, plural, absolute
+adjv.pual.ptcp.u.f.sg.a	adjective, pu“al, participle (passive), unknown, feminine, singular, absolute
+adjv.pual.ptcp.u.f.sg.c	adjective, pu“al, participle (passive), unknown, feminine, singular, construct
+adjv.pual.ptcp.u.m.pl.a	adjective, pu“al, participle (passive), unknown, masculine, plural, absolute
+adjv.pual.ptcp.u.m.pl.c	adjective, pu“al, participle (passive), unknown, masculine, plural, construct
+adjv.pual.ptcp.u.m.sg.a	adjective, pu“al, participle (passive), unknown, masculine, singular, absolute
+adjv.qal.ptca.u.f.pl.a	adjective, qal, participle, unknown, feminine, plural, absolute
+adjv.qal.ptca.u.f.sg.a	adjective, qal, participle, unknown, feminine, singular, absolute
+adjv.qal.ptca.u.f.sg.c	adjective, qal, participle, unknown, feminine, singular, construct
+adjv.qal.ptca.u.m.pl.a	adjective, qal, participle, unknown, masculine, plural, absolute
+adjv.qal.ptca.u.m.pl.c	adjective, qal, participle, unknown, masculine, plural, construct
+adjv.qal.ptca.u.m.sg.a	adjective, qal, participle, unknown, masculine, singular, absolute
+adjv.qal.ptca.u.m.sg.c	adjective, qal, participle, unknown, masculine, singular, construct
+adjv.qal.ptcp.u.f.pl.a	adjective, qal, participle (passive), unknown, feminine, plural, absolute
+adjv.qal.ptcp.u.f.pl.c	adjective, qal, participle (passive), unknown, feminine, plural, construct
+adjv.qal.ptcp.u.f.sg.a	adjective, qal, participle (passive), unknown, feminine, singular, absolute
+adjv.qal.ptcp.u.f.sg.c	adjective, qal, participle (passive), unknown, feminine, singular, construct
+adjv.qal.ptcp.u.m.pl.a	adjective, qal, participle (passive), unknown, masculine, plural, absolute
+adjv.qal.ptcp.u.m.pl.c	adjective, qal, participle (passive), unknown, masculine, plural, construct
+adjv.qal.ptcp.u.m.sg.a	adjective, qal, participle (passive), unknown, masculine, singular, absolute
+adjv.qal.ptcp.u.m.sg.c	adjective, qal, participle (passive), unknown, masculine, singular, construct
+advb	adverb
+advb.f.du.a	adverb, feminine, dual, absolute
+advb.f.pl.a	adverb, feminine, plural, absolute
+advb.f.sg.a	adverb, feminine, singular, absolute
+advb.f.sg.c	adverb, feminine, singular, construct
+advb.hif.infa.u.u.u.a	adverb, hif‘il, infinitive (absolute), unknown, unknown, unknown, absolute
+advb.hif.infc.u.u.u.a	adverb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute
+advb.hit.infa.u.u.u.a	adverb, hitpa“el, infinitive (absolute), unknown, unknown, unknown, absolute
+advb.hof.infa.u.u.u.a	adverb, hof‘al, infinitive (absolute), unknown, unknown, unknown, absolute
+advb.hof.ptcp.u.m.sg.a	adverb, hof‘al, participle (passive), unknown, masculine, singular, absolute
+advb.m.pl.a	adverb, masculine, plural, absolute
+advb.m.sg	adverb, masculine, singular
+advb.m.sg.a	adverb, masculine, singular, absolute
+advb.nif.infa.u.u.u.a	adverb, nif‘al, infinitive (absolute), unknown, unknown, unknown, absolute
+advb.nif.infc.u.u.u.a	adverb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute
+advb.nif.ptca.u.f.pl.a	adverb, nif‘al, participle, unknown, feminine, plural, absolute
+advb.nif.ptca.u.f.sg.a	adverb, nif‘al, participle, unknown, feminine, singular, absolute
+advb.piel.infa.u.u.u.a	adverb, pi“el, infinitive (absolute), unknown, unknown, unknown, absolute
+advb.pual.infa.u.u.u.a	adverb, pu“al, infinitive (absolute), unknown, unknown, unknown, absolute
+advb.qal.infa.u.u.u.a	adverb, qal, infinitive (absolute), unknown, unknown, unknown, absolute
+advb.qal.infc.u.u.u.a	adverb, qal, infinitive (construct), unknown, unknown, unknown, absolute
+advb.qal.infc.u.u.u.c	adverb, qal, infinitive (construct), unknown, unknown, unknown, construct
+advb.u.sg.a	adverb, unknown, singular, absolute
+art	article
+conj	conjunction
+conj.f.sg.c	conjunction, feminine, singular, construct
+conj.m.pl.c	conjunction, masculine, plural, construct
+conj.m.sg	conjunction, masculine, singular
+conj.m.sg.c	conjunction, masculine, singular, construct
+conj.u.pl	conjunction, unknown, plural
+conj.u.sg.c	conjunction, unknown, singular, construct
+inrg	interrogative particle
+inrg.u.u	interrogative particle, unknown, unknown
+intj	interjection
+intj.m.sg.a	interjection, masculine, singular, absolute
+nega	negative particle
+nega.m.sg.a	negative particle, masculine, singular, absolute
+nega.m.sg.c	negative particle, masculine, singular, construct
+nega.u.sg.c	negative particle, unknown, singular, construct
+nmpr.f.sg.a	proper noun, feminine, singular, absolute
+nmpr.m.pl.a	proper noun, masculine, plural, absolute
+nmpr.m.sg.a	proper noun, masculine, singular, absolute
+nmpr.u.sg.a	proper noun, unknown, singular, absolute
+prde.f.sg	demonstrative pronoun, feminine, singular
+prde.m.sg	demonstrative pronoun, masculine, singular
+prde.p3.f.pl	demonstrative pronoun, third person, feminine, plural
+prde.p3.f.sg	demonstrative pronoun, third person, feminine, singular
+prde.p3.m.pl	demonstrative pronoun, third person, masculine, plural
+prde.p3.m.sg	demonstrative pronoun, third person, masculine, singular
+prde.u.pl	demonstrative pronoun, unknown, plural
+prde.u.sg	demonstrative pronoun, unknown, singular
+prep	preposition
+prep.f.sg.a	preposition, feminine, singular, absolute
+prep.f.sg.c	preposition, feminine, singular, construct
+prep.m.pl.a	preposition, masculine, plural, absolute
+prep.m.pl.c	preposition, masculine, plural, construct
+prep.m.sg.a	preposition, masculine, singular, absolute
+prep.m.sg.c	preposition, masculine, singular, construct
+prep.u.sg.a	preposition, unknown, singular, absolute
+prep.u.sg.c	preposition, unknown, singular, construct
+prin.u.u	interrogative pronoun, unknown, unknown
+prps.p1.u.pl	personal pronoun, first person, unknown, plural
+prps.p1.u.sg	personal pronoun, first person, unknown, singular
+prps.p2.f.pl	personal pronoun, second person, feminine, plural
+prps.p2.f.sg	personal pronoun, second person, feminine, singular
+prps.p2.m.pl	personal pronoun, second person, masculine, plural
+prps.p2.m.sg	personal pronoun, second person, masculine, singular
+prps.p3.f.pl	personal pronoun, third person, feminine, plural
+prps.p3.f.sg	personal pronoun, third person, feminine, singular
+prps.p3.m.pl	personal pronoun, third person, masculine, plural
+prps.p3.m.sg	personal pronoun, third person, masculine, singular
+subs.f.du.a	noun, feminine, dual, absolute
+subs.f.du.c	noun, feminine, dual, construct
+subs.f.du.e	noun, feminine, dual, emphatic
+subs.f.pl.a	noun, feminine, plural, absolute
+subs.f.pl.c	noun, feminine, plural, construct
+subs.f.pl.e	noun, feminine, plural, emphatic
+subs.f.sg.a	noun, feminine, singular, absolute
+subs.f.sg.c	noun, feminine, singular, construct
+subs.f.sg.e	noun, feminine, singular, emphatic
+subs.hif.infa.u.u.u.a	noun, hif‘il, infinitive (absolute), unknown, unknown, unknown, absolute
+subs.hif.infc.u.u.u.a	noun, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute
+subs.hif.infc.u.u.u.c	noun, hif‘il, infinitive (construct), unknown, unknown, unknown, construct
+subs.hif.ptca.u.f.sg.a	noun, hif‘il, participle, unknown, feminine, singular, absolute
+subs.hif.ptca.u.f.sg.c	noun, hif‘il, participle, unknown, feminine, singular, construct
+subs.hif.ptca.u.m.pl.a	noun, hif‘il, participle, unknown, masculine, plural, absolute
+subs.hif.ptca.u.m.pl.c	noun, hif‘il, participle, unknown, masculine, plural, construct
+subs.hif.ptca.u.m.sg.a	noun, hif‘il, participle, unknown, masculine, singular, absolute
+subs.hif.ptca.u.m.sg.c	noun, hif‘il, participle, unknown, masculine, singular, construct
+subs.hit.ptca.u.m.pl.a	noun, hitpa“el, participle, unknown, masculine, plural, absolute
+subs.hit.ptca.u.m.sg.a	noun, hitpa“el, participle, unknown, masculine, singular, absolute
+subs.hof.ptcp.u.f.pl.a	noun, hof‘al, participle (passive), unknown, feminine, plural, absolute
+subs.hof.ptcp.u.f.sg.a	noun, hof‘al, participle (passive), unknown, feminine, singular, absolute
+subs.hof.ptcp.u.m.pl.a	noun, hof‘al, participle (passive), unknown, masculine, plural, absolute
+subs.hof.ptcp.u.m.pl.c	noun, hof‘al, participle (passive), unknown, masculine, plural, construct
+subs.hof.ptcp.u.m.sg.a	noun, hof‘al, participle (passive), unknown, masculine, singular, absolute
+subs.hof.ptcp.u.m.sg.c	noun, hof‘al, participle (passive), unknown, masculine, singular, construct
+subs.hsht.ptca.u.m.sg.a	noun, hishtaf‘al, participle, unknown, masculine, singular, absolute
+subs.htpa.ptca.u.m.sg.a	noun, hitpa“al, participle, unknown, masculine, singular, absolute
+subs.htpe.infc.u.u.u.a	noun, hitpe‘el, infinitive (construct), unknown, unknown, unknown, absolute
+subs.m.du.a	noun, masculine, dual, absolute
+subs.m.du.c	noun, masculine, dual, construct
+subs.m.pl.a	noun, masculine, plural, absolute
+subs.m.pl.c	noun, masculine, plural, construct
+subs.m.pl.e	noun, masculine, plural, emphatic
+subs.m.sg.a	noun, masculine, singular, absolute
+subs.m.sg.c	noun, masculine, singular, construct
+subs.m.sg.e	noun, masculine, singular, emphatic
+subs.nif.ptca.u.f.pl.a	noun, nif‘al, participle, unknown, feminine, plural, absolute
+subs.nif.ptca.u.f.pl.c	noun, nif‘al, participle, unknown, feminine, plural, construct
+subs.nif.ptca.u.f.sg.a	noun, nif‘al, participle, unknown, feminine, singular, absolute
+subs.nif.ptca.u.f.sg.c	noun, nif‘al, participle, unknown, feminine, singular, construct
+subs.nif.ptca.u.m.pl.a	noun, nif‘al, participle, unknown, masculine, plural, absolute
+subs.nif.ptca.u.m.pl.c	noun, nif‘al, participle, unknown, masculine, plural, construct
+subs.nif.ptca.u.m.sg.a	noun, nif‘al, participle, unknown, masculine, singular, absolute
+subs.nif.ptca.u.m.sg.c	noun, nif‘al, participle, unknown, masculine, singular, construct
+subs.pael.ptcp.u.f.pl.e	noun, pa“el, participle (passive), unknown, feminine, plural, emphatic
+subs.peal.infc.u.u.u.a	noun, pe‘al, infinitive (construct), unknown, unknown, unknown, absolute
+subs.peal.ptca.u.m.pl.a	noun, pe‘al, participle, unknown, masculine, plural, absolute
+subs.peal.ptca.u.m.pl.c	noun, pe‘al, participle, unknown, masculine, plural, construct
+subs.peal.ptca.u.m.pl.e	noun, pe‘al, participle, unknown, masculine, plural, emphatic
+subs.peal.ptcp.u.f.sg.a	noun, pe‘al, participle (passive), unknown, feminine, singular, absolute
+subs.piel.infc.u.u.u.a	noun, pi“el, infinitive (construct), unknown, unknown, unknown, absolute
+subs.piel.ptca.u.f.pl.a	noun, pi“el, participle, unknown, feminine, plural, absolute
+subs.piel.ptca.u.f.sg.a	noun, pi“el, participle, unknown, feminine, singular, absolute
+subs.piel.ptca.u.f.sg.c	noun, pi“el, participle, unknown, feminine, singular, construct
+subs.piel.ptca.u.m.pl.a	noun, pi“el, participle, unknown, masculine, plural, absolute
+subs.piel.ptca.u.m.pl.c	noun, pi“el, participle, unknown, masculine, plural, construct
+subs.piel.ptca.u.m.sg.a	noun, pi“el, participle, unknown, masculine, singular, absolute
+subs.piel.ptca.u.m.sg.c	noun, pi“el, participle, unknown, masculine, singular, construct
+subs.poel.ptca.u.m.sg.a	noun, po“el, participle, unknown, masculine, singular, absolute
+subs.pual.infc.u.u.u.a	noun, pu“al, infinitive (construct), unknown, unknown, unknown, absolute
+subs.pual.ptcp.u.f.pl.c	noun, pu“al, participle (passive), unknown, feminine, plural, construct
+subs.pual.ptcp.u.f.sg.a	noun, pu“al, participle (passive), unknown, feminine, singular, absolute
+subs.pual.ptcp.u.m.pl.a	noun, pu“al, participle (passive), unknown, masculine, plural, absolute
+subs.pual.ptcp.u.m.pl.c	noun, pu“al, participle (passive), unknown, masculine, plural, construct
+subs.pual.ptcp.u.m.sg.a	noun, pu“al, participle (passive), unknown, masculine, singular, absolute
+subs.qal.infa.u.u.u.a	noun, qal, infinitive (absolute), unknown, unknown, unknown, absolute
+subs.qal.infc.u.u.u.a	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute
+subs.qal.infc.u.u.u.c	noun, qal, infinitive (construct), unknown, unknown, unknown, construct
+subs.qal.ptca.u.f.pl.a	noun, qal, participle, unknown, feminine, plural, absolute
+subs.qal.ptca.u.f.pl.c	noun, qal, participle, unknown, feminine, plural, construct
+subs.qal.ptca.u.f.sg.a	noun, qal, participle, unknown, feminine, singular, absolute
+subs.qal.ptca.u.f.sg.c	noun, qal, participle, unknown, feminine, singular, construct
+subs.qal.ptca.u.m.pl.a	noun, qal, participle, unknown, masculine, plural, absolute
+subs.qal.ptca.u.m.pl.c	noun, qal, participle, unknown, masculine, plural, construct
+subs.qal.ptca.u.m.sg.a	noun, qal, participle, unknown, masculine, singular, absolute
+subs.qal.ptca.u.m.sg.c	noun, qal, participle, unknown, masculine, singular, construct
+subs.qal.ptcp.u.f.pl.a	noun, qal, participle (passive), unknown, feminine, plural, absolute
+subs.qal.ptcp.u.f.pl.c	noun, qal, participle (passive), unknown, feminine, plural, construct
+subs.qal.ptcp.u.f.sg.a	noun, qal, participle (passive), unknown, feminine, singular, absolute
+subs.qal.ptcp.u.f.sg.c	noun, qal, participle (passive), unknown, feminine, singular, construct
+subs.qal.ptcp.u.m.pl.a	noun, qal, participle (passive), unknown, masculine, plural, absolute
+subs.qal.ptcp.u.m.pl.c	noun, qal, participle (passive), unknown, masculine, plural, construct
+subs.qal.ptcp.u.m.sg.a	noun, qal, participle (passive), unknown, masculine, singular, absolute
+subs.qal.ptcp.u.m.sg.c	noun, qal, participle (passive), unknown, masculine, singular, construct
+subs.tif.ptca.u.m.sg.a	noun, tif‘al, participle, unknown, masculine, singular, absolute
+subs.u.du.a	noun, unknown, dual, absolute
+subs.u.du.c	noun, unknown, dual, construct
+subs.u.sg.a	noun, unknown, singular, absolute
+subs.u.sg.c	noun, unknown, singular, construct
+subs.u.sg.e	noun, unknown, singular, emphatic
+verb.afel.impv.p2.m.pl	verb, af‘el, imperative, second person, masculine, plural
+verb.afel.impv.p2.m.sg	verb, af‘el, imperative, second person, masculine, singular
+verb.afel.infc.u.u.u.c	verb, af‘el, infinitive (construct), unknown, unknown, unknown, construct
+verb.afel.perf.p3.m.sg	verb, af‘el, perfect, third person, masculine, singular
+verb.etpa.impf.p3.m.pl	verb, etpa“al, imperfect, third person, masculine, plural
+verb.etpa.impf.p3.m.sg	verb, etpa“al, imperfect, third person, masculine, singular
+verb.etpa.perf.p3.m.pl	verb, etpa“al, perfect, third person, masculine, plural
+verb.etpa.perf.p3.m.sg	verb, etpa“al, perfect, third person, masculine, singular
+verb.etpa.perf.p3.u.pl	verb, etpa“al, perfect, third person, unknown, plural
+verb.etpe.perf.p3.f.pl	verb, etpe‘el, perfect, third person, feminine, plural
+verb.etpe.perf.p3.f.sg	verb, etpe‘el, perfect, third person, feminine, singular
+verb.haf.impf.p1.u.pl	verb, haf‘el, imperfect, first person, unknown, plural
+verb.haf.impf.p1.u.sg	verb, haf‘el, imperfect, first person, unknown, singular
+verb.haf.impf.p2.m.pl	verb, haf‘el, imperfect, second person, masculine, plural
+verb.haf.impf.p2.m.sg	verb, haf‘el, imperfect, second person, masculine, singular
+verb.haf.impf.p3.f.sg	verb, haf‘el, imperfect, third person, feminine, singular
+verb.haf.impf.p3.m.pl	verb, haf‘el, imperfect, third person, masculine, plural
+verb.haf.impf.p3.m.sg	verb, haf‘el, imperfect, third person, masculine, singular
+verb.haf.impv.p2.m.pl	verb, haf‘el, imperative, second person, masculine, plural
+verb.haf.impv.p2.m.sg	verb, haf‘el, imperative, second person, masculine, singular
+verb.haf.infc.u.u.u.a	verb, haf‘el, infinitive (construct), unknown, unknown, unknown, absolute
+verb.haf.infc.u.u.u.c	verb, haf‘el, infinitive (construct), unknown, unknown, unknown, construct
+verb.haf.perf.p1.u.pl	verb, haf‘el, perfect, first person, unknown, plural
+verb.haf.perf.p1.u.sg	verb, haf‘el, perfect, first person, unknown, singular
+verb.haf.perf.p2.m.sg	verb, haf‘el, perfect, second person, masculine, singular
+verb.haf.perf.p3.f.sg	verb, haf‘el, perfect, third person, feminine, singular
+verb.haf.perf.p3.m.pl	verb, haf‘el, perfect, third person, masculine, plural
+verb.haf.perf.p3.m.sg	verb, haf‘el, perfect, third person, masculine, singular
+verb.haf.ptca.u.f.pl.a	verb, haf‘el, participle, unknown, feminine, plural, absolute
+verb.haf.ptca.u.f.sg.a	verb, haf‘el, participle, unknown, feminine, singular, absolute
+verb.haf.ptca.u.f.sg.c	verb, haf‘el, participle, unknown, feminine, singular, construct
+verb.haf.ptca.u.m.pl.a	verb, haf‘el, participle, unknown, masculine, plural, absolute
+verb.haf.ptca.u.m.sg.a	verb, haf‘el, participle, unknown, masculine, singular, absolute
+verb.haf.ptcp.u.m.sg.a	verb, haf‘el, participle (passive), unknown, masculine, singular, absolute
+verb.hif.impf.p1.u.pl	verb, hif‘il, imperfect, first person, unknown, plural
+verb.hif.impf.p1.u.sg	verb, hif‘il, imperfect, first person, unknown, singular
+verb.hif.impf.p2.f.sg	verb, hif‘il, imperfect, second person, feminine, singular
+verb.hif.impf.p2.m.pl	verb, hif‘il, imperfect, second person, masculine, plural
+verb.hif.impf.p2.m.sg	verb, hif‘il, imperfect, second person, masculine, singular
+verb.hif.impf.p3.f.pl	verb, hif‘il, imperfect, third person, feminine, plural
+verb.hif.impf.p3.f.sg	verb, hif‘il, imperfect, third person, feminine, singular
+verb.hif.impf.p3.m.pl	verb, hif‘il, imperfect, third person, masculine, plural
+verb.hif.impf.p3.m.sg	verb, hif‘il, imperfect, third person, masculine, singular
+verb.hif.impv.p2.f.pl	verb, hif‘il, imperative, second person, feminine, plural
+verb.hif.impv.p2.f.sg	verb, hif‘il, imperative, second person, feminine, singular
+verb.hif.impv.p2.m.pl	verb, hif‘il, imperative, second person, masculine, plural
+verb.hif.impv.p2.m.sg	verb, hif‘il, imperative, second person, masculine, singular
+verb.hif.infa.u.u.u.a	verb, hif‘il, infinitive (absolute), unknown, unknown, unknown, absolute
+verb.hif.infc.u.u.u.a	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute
+verb.hif.infc.u.u.u.c	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, construct
+verb.hif.perf.p1.u.pl	verb, hif‘il, perfect, first person, unknown, plural
+verb.hif.perf.p1.u.sg	verb, hif‘il, perfect, first person, unknown, singular
+verb.hif.perf.p2.f.pl	verb, hif‘il, perfect, second person, feminine, plural
+verb.hif.perf.p2.f.sg	verb, hif‘il, perfect, second person, feminine, singular
+verb.hif.perf.p2.m.pl	verb, hif‘il, perfect, second person, masculine, plural
+verb.hif.perf.p2.m.sg	verb, hif‘il, perfect, second person, masculine, singular
+verb.hif.perf.p3.f.sg	verb, hif‘il, perfect, third person, feminine, singular
+verb.hif.perf.p3.m.sg	verb, hif‘il, perfect, third person, masculine, singular
+verb.hif.perf.p3.u.pl	verb, hif‘il, perfect, third person, unknown, plural
+verb.hif.ptca.u.f.pl.a	verb, hif‘il, participle, unknown, feminine, plural, absolute
+verb.hif.ptca.u.f.sg.a	verb, hif‘il, participle, unknown, feminine, singular, absolute
+verb.hif.ptca.u.f.sg.c	verb, hif‘il, participle, unknown, feminine, singular, construct
+verb.hif.ptca.u.m.pl.a	verb, hif‘il, participle, unknown, masculine, plural, absolute
+verb.hif.ptca.u.m.pl.c	verb, hif‘il, participle, unknown, masculine, plural, construct
+verb.hif.ptca.u.m.sg.a	verb, hif‘il, participle, unknown, masculine, singular, absolute
+verb.hif.ptca.u.m.sg.c	verb, hif‘il, participle, unknown, masculine, singular, construct
+verb.hif.wayq.p1.u.pl	verb, hif‘il, wayyiqtol, first person, unknown, plural
+verb.hif.wayq.p1.u.sg	verb, hif‘il, wayyiqtol, first person, unknown, singular
+verb.hif.wayq.p2.f.sg	verb, hif‘il, wayyiqtol, second person, feminine, singular
+verb.hif.wayq.p2.m.pl	verb, hif‘il, wayyiqtol, second person, masculine, plural
+verb.hif.wayq.p2.m.sg	verb, hif‘il, wayyiqtol, second person, masculine, singular
+verb.hif.wayq.p3.f.pl	verb, hif‘il, wayyiqtol, third person, feminine, plural
+verb.hif.wayq.p3.f.sg	verb, hif‘il, wayyiqtol, third person, feminine, singular
+verb.hif.wayq.p3.m.pl	verb, hif‘il, wayyiqtol, third person, masculine, plural
+verb.hif.wayq.p3.m.sg	verb, hif‘il, wayyiqtol, third person, masculine, singular
+verb.hit.impf.p1.u.pl	verb, hitpa“el, imperfect, first person, unknown, plural
+verb.hit.impf.p1.u.sg	verb, hitpa“el, imperfect, first person, unknown, singular
+verb.hit.impf.p2.f.sg	verb, hitpa“el, imperfect, second person, feminine, singular
+verb.hit.impf.p2.m.pl	verb, hitpa“el, imperfect, second person, masculine, plural
+verb.hit.impf.p2.m.sg	verb, hitpa“el, imperfect, second person, masculine, singular
+verb.hit.impf.p3.f.pl	verb, hitpa“el, imperfect, third person, feminine, plural
+verb.hit.impf.p3.f.sg	verb, hitpa“el, imperfect, third person, feminine, singular
+verb.hit.impf.p3.m.pl	verb, hitpa“el, imperfect, third person, masculine, plural
+verb.hit.impf.p3.m.sg	verb, hitpa“el, imperfect, third person, masculine, singular
+verb.hit.impv.p2.f.pl	verb, hitpa“el, imperative, second person, feminine, plural
+verb.hit.impv.p2.f.sg	verb, hitpa“el, imperative, second person, feminine, singular
+verb.hit.impv.p2.m.pl	verb, hitpa“el, imperative, second person, masculine, plural
+verb.hit.impv.p2.m.sg	verb, hitpa“el, imperative, second person, masculine, singular
+verb.hit.infa.u.u.u.a	verb, hitpa“el, infinitive (absolute), unknown, unknown, unknown, absolute
+verb.hit.infc.u.u.u.a	verb, hitpa“el, infinitive (construct), unknown, unknown, unknown, absolute
+verb.hit.infc.u.u.u.c	verb, hitpa“el, infinitive (construct), unknown, unknown, unknown, construct
+verb.hit.perf.p1.u.pl	verb, hitpa“el, perfect, first person, unknown, plural
+verb.hit.perf.p1.u.sg	verb, hitpa“el, perfect, first person, unknown, singular
+verb.hit.perf.p2.f.sg	verb, hitpa“el, perfect, second person, feminine, singular
+verb.hit.perf.p2.m.pl	verb, hitpa“el, perfect, second person, masculine, plural
+verb.hit.perf.p2.m.sg	verb, hitpa“el, perfect, second person, masculine, singular
+verb.hit.perf.p3.f.sg	verb, hitpa“el, perfect, third person, feminine, singular
+verb.hit.perf.p3.m.sg	verb, hitpa“el, perfect, third person, masculine, singular
+verb.hit.perf.p3.u.pl	verb, hitpa“el, perfect, third person, unknown, plural
+verb.hit.ptca.u.f.pl.a	verb, hitpa“el, participle, unknown, feminine, plural, absolute
+verb.hit.ptca.u.f.sg.a	verb, hitpa“el, participle, unknown, feminine, singular, absolute
+verb.hit.ptca.u.f.sg.c	verb, hitpa“el, participle, unknown, feminine, singular, construct
+verb.hit.ptca.u.m.pl.a	verb, hitpa“el, participle, unknown, masculine, plural, absolute
+verb.hit.ptca.u.m.sg.a	verb, hitpa“el, participle, unknown, masculine, singular, absolute
+verb.hit.ptca.u.m.sg.c	verb, hitpa“el, participle, unknown, masculine, singular, construct
+verb.hit.wayq.p1.u.pl	verb, hitpa“el, wayyiqtol, first person, unknown, plural
+verb.hit.wayq.p1.u.sg	verb, hitpa“el, wayyiqtol, first person, unknown, singular
+verb.hit.wayq.p2.m.sg	verb, hitpa“el, wayyiqtol, second person, masculine, singular
+verb.hit.wayq.p3.f.pl	verb, hitpa“el, wayyiqtol, third person, feminine, plural
+verb.hit.wayq.p3.f.sg	verb, hitpa“el, wayyiqtol, third person, feminine, singular
+verb.hit.wayq.p3.m.pl	verb, hitpa“el, wayyiqtol, third person, masculine, plural
+verb.hit.wayq.p3.m.sg	verb, hitpa“el, wayyiqtol, third person, masculine, singular
+verb.hof.impf.p1.u.pl	verb, hof‘al, imperfect, first person, unknown, plural
+verb.hof.impf.p1.u.sg	verb, hof‘al, imperfect, first person, unknown, singular
+verb.hof.impf.p2.m.pl	verb, hof‘al, imperfect, second person, masculine, plural
+verb.hof.impf.p2.m.sg	verb, hof‘al, imperfect, second person, masculine, singular
+verb.hof.impf.p3.f.pl	verb, hof‘al, imperfect, third person, feminine, plural
+verb.hof.impf.p3.f.sg	verb, hof‘al, imperfect, third person, feminine, singular
+verb.hof.impf.p3.m.pl	verb, hof‘al, imperfect, third person, masculine, plural
+verb.hof.impf.p3.m.sg	verb, hof‘al, imperfect, third person, masculine, singular
+verb.hof.impv.p2.m.pl	verb, hof‘al, imperative, second person, masculine, plural
+verb.hof.impv.p2.m.sg	verb, hof‘al, imperative, second person, masculine, singular
+verb.hof.infa.u.u.u.a	verb, hof‘al, infinitive (absolute), unknown, unknown, unknown, absolute
+verb.hof.infc.u.u.u.a	verb, hof‘al, infinitive (construct), unknown, unknown, unknown, absolute
+verb.hof.perf.p1.u.pl	verb, hof‘al, perfect, first person, unknown, plural
+verb.hof.perf.p1.u.sg	verb, hof‘al, perfect, first person, unknown, singular
+verb.hof.perf.p2.f.sg	verb, hof‘al, perfect, second person, feminine, singular
+verb.hof.perf.p2.m.pl	verb, hof‘al, perfect, second person, masculine, plural
+verb.hof.perf.p2.m.sg	verb, hof‘al, perfect, second person, masculine, singular
+verb.hof.perf.p3.f.sg	verb, hof‘al, perfect, third person, feminine, singular
+verb.hof.perf.p3.m.pl	verb, hof‘al, perfect, third person, masculine, plural
+verb.hof.perf.p3.m.sg	verb, hof‘al, perfect, third person, masculine, singular
+verb.hof.perf.p3.u.pl	verb, hof‘al, perfect, third person, unknown, plural
+verb.hof.ptcp.u.f.pl.a	verb, hof‘al, participle (passive), unknown, feminine, plural, absolute
+verb.hof.ptcp.u.f.sg.a	verb, hof‘al, participle (passive), unknown, feminine, singular, absolute
+verb.hof.ptcp.u.m.pl.a	verb, hof‘al, participle (passive), unknown, masculine, plural, absolute
+verb.hof.ptcp.u.m.sg.a	verb, hof‘al, participle (passive), unknown, masculine, singular, absolute
+verb.hof.wayq.p2.f.sg	verb, hof‘al, wayyiqtol, second person, feminine, singular
+verb.hof.wayq.p3.f.sg	verb, hof‘al, wayyiqtol, third person, feminine, singular
+verb.hof.wayq.p3.m.pl	verb, hof‘al, wayyiqtol, third person, masculine, plural
+verb.hof.wayq.p3.m.sg	verb, hof‘al, wayyiqtol, third person, masculine, singular
+verb.hotp.infc.u.u.u.a	verb, hotpa“al, infinitive (construct), unknown, unknown, unknown, absolute
+verb.hotp.perf.p3.f.sg	verb, hotpa“al, perfect, third person, feminine, singular
+verb.hotp.perf.p3.u.pl	verb, hotpa“al, perfect, third person, unknown, plural
+verb.hsht.impf.p1.u.pl	verb, hishtaf‘al, imperfect, first person, unknown, plural
+verb.hsht.impf.p1.u.sg	verb, hishtaf‘al, imperfect, first person, unknown, singular
+verb.hsht.impf.p2.m.pl	verb, hishtaf‘al, imperfect, second person, masculine, plural
+verb.hsht.impf.p2.m.sg	verb, hishtaf‘al, imperfect, second person, masculine, singular
+verb.hsht.impf.p3.m.pl	verb, hishtaf‘al, imperfect, third person, masculine, plural
+verb.hsht.impf.p3.m.sg	verb, hishtaf‘al, imperfect, third person, masculine, singular
+verb.hsht.impv.p2.f.sg	verb, hishtaf‘al, imperative, second person, feminine, singular
+verb.hsht.impv.p2.m.pl	verb, hishtaf‘al, imperative, second person, masculine, plural
+verb.hsht.infc.u.u.u.a	verb, hishtaf‘al, infinitive (construct), unknown, unknown, unknown, absolute
+verb.hsht.infc.u.u.u.c	verb, hishtaf‘al, infinitive (construct), unknown, unknown, unknown, construct
+verb.hsht.perf.p1.u.sg	verb, hishtaf‘al, perfect, first person, unknown, singular
+verb.hsht.perf.p2.m.pl	verb, hishtaf‘al, perfect, second person, masculine, plural
+verb.hsht.perf.p2.m.sg	verb, hishtaf‘al, perfect, second person, masculine, singular
+verb.hsht.perf.p3.m.sg	verb, hishtaf‘al, perfect, third person, masculine, singular
+verb.hsht.perf.p3.u.pl	verb, hishtaf‘al, perfect, third person, unknown, plural
+verb.hsht.ptca.u.m.pl.a	verb, hishtaf‘al, participle, unknown, masculine, plural, absolute
+verb.hsht.ptca.u.m.sg.a	verb, hishtaf‘al, participle, unknown, masculine, singular, absolute
+verb.hsht.wayq.p1.u.sg	verb, hishtaf‘al, wayyiqtol, first person, unknown, singular
+verb.hsht.wayq.p3.f.pl	verb, hishtaf‘al, wayyiqtol, third person, feminine, plural
+verb.hsht.wayq.p3.f.sg	verb, hishtaf‘al, wayyiqtol, third person, feminine, singular
+verb.hsht.wayq.p3.m.pl	verb, hishtaf‘al, wayyiqtol, third person, masculine, plural
+verb.hsht.wayq.p3.m.sg	verb, hishtaf‘al, wayyiqtol, third person, masculine, singular
+verb.htpa.impf.p3.f.sg	verb, hitpa“al, imperfect, third person, feminine, singular
+verb.htpa.impf.p3.m.pl	verb, hitpa“al, imperfect, third person, masculine, plural
+verb.htpa.impf.p3.m.sg	verb, hitpa“al, imperfect, third person, masculine, singular
+verb.htpa.infc.u.u.u.c	verb, hitpa“al, infinitive (construct), unknown, unknown, unknown, construct
+verb.htpa.perf.p2.m.sg	verb, hitpa“al, perfect, second person, masculine, singular
+verb.htpa.perf.p3.m.pl	verb, hitpa“al, perfect, third person, masculine, plural
+verb.htpa.perf.p3.m.sg	verb, hitpa“al, perfect, third person, masculine, singular
+verb.htpa.ptca.u.f.sg.a	verb, hitpa“al, participle, unknown, feminine, singular, absolute
+verb.htpa.ptca.u.m.pl.a	verb, hitpa“al, participle, unknown, masculine, plural, absolute
+verb.htpa.ptca.u.m.sg.a	verb, hitpa“al, participle, unknown, masculine, singular, absolute
+verb.htpe.impf.p2.m.pl	verb, hitpe‘el, imperfect, second person, masculine, plural
+verb.htpe.impf.p3.f.sg	verb, hitpe‘el, imperfect, third person, feminine, singular
+verb.htpe.impf.p3.m.pl	verb, hitpe‘el, imperfect, third person, masculine, plural
+verb.htpe.impf.p3.m.sg	verb, hitpe‘el, imperfect, third person, masculine, singular
+verb.htpe.infc.u.u.u.a	verb, hitpe‘el, infinitive (construct), unknown, unknown, unknown, absolute
+verb.htpe.perf.p2.m.pl	verb, hitpe‘el, perfect, second person, masculine, plural
+verb.htpe.perf.p2.m.sg	verb, hitpe‘el, perfect, second person, masculine, singular
+verb.htpe.perf.p3.f.sg	verb, hitpe‘el, perfect, third person, feminine, singular
+verb.htpe.perf.p3.m.pl	verb, hitpe‘el, perfect, third person, masculine, plural
+verb.htpe.perf.p3.m.sg	verb, hitpe‘el, perfect, third person, masculine, singular
+verb.htpe.ptca.u.f.sg.a	verb, hitpe‘el, participle, unknown, feminine, singular, absolute
+verb.htpe.ptca.u.m.pl.a	verb, hitpe‘el, participle, unknown, masculine, plural, absolute
+verb.htpe.ptca.u.m.sg.a	verb, hitpe‘el, participle, unknown, masculine, singular, absolute
+verb.htpo.impf.p3.m.pl	verb, hitpo“el, imperfect, third person, masculine, plural
+verb.htpo.perf.p3.u.pl	verb, hitpo“el, perfect, third person, unknown, plural
+verb.htpo.ptca.u.m.sg.a	verb, hitpo“el, participle, unknown, masculine, singular, absolute
+verb.nif.impf.p1.u.pl	verb, nif‘al, imperfect, first person, unknown, plural
+verb.nif.impf.p1.u.sg	verb, nif‘al, imperfect, first person, unknown, singular
+verb.nif.impf.p2.f.pl	verb, nif‘al, imperfect, second person, feminine, plural
+verb.nif.impf.p2.f.sg	verb, nif‘al, imperfect, second person, feminine, singular
+verb.nif.impf.p2.m.pl	verb, nif‘al, imperfect, second person, masculine, plural
+verb.nif.impf.p2.m.sg	verb, nif‘al, imperfect, second person, masculine, singular
+verb.nif.impf.p3.f.pl	verb, nif‘al, imperfect, third person, feminine, plural
+verb.nif.impf.p3.f.sg	verb, nif‘al, imperfect, third person, feminine, singular
+verb.nif.impf.p3.m.pl	verb, nif‘al, imperfect, third person, masculine, plural
+verb.nif.impf.p3.m.sg	verb, nif‘al, imperfect, third person, masculine, singular
+verb.nif.impv.p2.f.sg	verb, nif‘al, imperative, second person, feminine, singular
+verb.nif.impv.p2.m.pl	verb, nif‘al, imperative, second person, masculine, plural
+verb.nif.impv.p2.m.sg	verb, nif‘al, imperative, second person, masculine, singular
+verb.nif.infa.u.u.u.a	verb, nif‘al, infinitive (absolute), unknown, unknown, unknown, absolute
+verb.nif.infc.u.u.u.a	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute
+verb.nif.infc.u.u.u.c	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, construct
+verb.nif.perf.p1.u.pl	verb, nif‘al, perfect, first person, unknown, plural
+verb.nif.perf.p1.u.sg	verb, nif‘al, perfect, first person, unknown, singular
+verb.nif.perf.p2.f.sg	verb, nif‘al, perfect, second person, feminine, singular
+verb.nif.perf.p2.m.pl	verb, nif‘al, perfect, second person, masculine, plural
+verb.nif.perf.p2.m.sg	verb, nif‘al, perfect, second person, masculine, singular
+verb.nif.perf.p3.f.sg	verb, nif‘al, perfect, third person, feminine, singular
+verb.nif.perf.p3.m.sg	verb, nif‘al, perfect, third person, masculine, singular
+verb.nif.perf.p3.u.pl	verb, nif‘al, perfect, third person, unknown, plural
+verb.nif.ptca.u.f.pl.a	verb, nif‘al, participle, unknown, feminine, plural, absolute
+verb.nif.ptca.u.f.sg.a	verb, nif‘al, participle, unknown, feminine, singular, absolute
+verb.nif.ptca.u.m.pl.a	verb, nif‘al, participle, unknown, masculine, plural, absolute
+verb.nif.ptca.u.m.pl.c	verb, nif‘al, participle, unknown, masculine, plural, construct
+verb.nif.ptca.u.m.sg.a	verb, nif‘al, participle, unknown, masculine, singular, absolute
+verb.nif.ptca.u.m.sg.c	verb, nif‘al, participle, unknown, masculine, singular, construct
+verb.nif.wayq.p1.u.sg	verb, nif‘al, wayyiqtol, first person, unknown, singular
+verb.nif.wayq.p2.f.sg	verb, nif‘al, wayyiqtol, second person, feminine, singular
+verb.nif.wayq.p2.m.pl	verb, nif‘al, wayyiqtol, second person, masculine, plural
+verb.nif.wayq.p2.m.sg	verb, nif‘al, wayyiqtol, second person, masculine, singular
+verb.nif.wayq.p3.f.pl	verb, nif‘al, wayyiqtol, third person, feminine, plural
+verb.nif.wayq.p3.f.sg	verb, nif‘al, wayyiqtol, third person, feminine, singular
+verb.nif.wayq.p3.m.pl	verb, nif‘al, wayyiqtol, third person, masculine, plural
+verb.nif.wayq.p3.m.sg	verb, nif‘al, wayyiqtol, third person, masculine, singular
+verb.nit.perf.p3.m.sg	verb, nitpa“el, perfect, third person, masculine, singular
+verb.nit.perf.p3.u.pl	verb, nitpa“el, perfect, third person, unknown, plural
+verb.pael.impf.p1.u.pl	verb, pa“el, imperfect, first person, unknown, plural
+verb.pael.impf.p1.u.sg	verb, pa“el, imperfect, first person, unknown, singular
+verb.pael.impf.p2.m.pl	verb, pa“el, imperfect, second person, masculine, plural
+verb.pael.impf.p2.m.sg	verb, pa“el, imperfect, second person, masculine, singular
+verb.pael.impf.p3.m.pl	verb, pa“el, imperfect, third person, masculine, plural
+verb.pael.impf.p3.m.sg	verb, pa“el, imperfect, third person, masculine, singular
+verb.pael.impv.p2.m.pl	verb, pa“el, imperative, second person, masculine, plural
+verb.pael.impv.p2.m.sg	verb, pa“el, imperative, second person, masculine, singular
+verb.pael.infc.u.u.u.a	verb, pa“el, infinitive (construct), unknown, unknown, unknown, absolute
+verb.pael.perf.p1.u.sg	verb, pa“el, perfect, first person, unknown, singular
+verb.pael.perf.p2.m.sg	verb, pa“el, perfect, second person, masculine, singular
+verb.pael.perf.p3.m.pl	verb, pa“el, perfect, third person, masculine, plural
+verb.pael.perf.p3.m.sg	verb, pa“el, perfect, third person, masculine, singular
+verb.pael.ptca.u.f.sg.a	verb, pa“el, participle, unknown, feminine, singular, absolute
+verb.pael.ptca.u.m.pl.a	verb, pa“el, participle, unknown, masculine, plural, absolute
+verb.pael.ptca.u.m.sg.a	verb, pa“el, participle, unknown, masculine, singular, absolute
+verb.pael.ptcp.u.f.sg.a	verb, pa“el, participle (passive), unknown, feminine, singular, absolute
+verb.pael.ptcp.u.m.pl.a	verb, pa“el, participle (passive), unknown, masculine, plural, absolute
+verb.pael.ptcp.u.m.sg.a	verb, pa“el, participle (passive), unknown, masculine, singular, absolute
+verb.pasq.ptcp.u.m.sg.a	verb, passiveqal, participle (passive), unknown, masculine, singular, absolute
+verb.peal.impf.p1.u.pl	verb, pe‘al, imperfect, first person, unknown, plural
+verb.peal.impf.p1.u.sg	verb, pe‘al, imperfect, first person, unknown, singular
+verb.peal.impf.p2.m.pl	verb, pe‘al, imperfect, second person, masculine, plural
+verb.peal.impf.p2.m.sg	verb, pe‘al, imperfect, second person, masculine, singular
+verb.peal.impf.p3.f.pl	verb, pe‘al, imperfect, third person, feminine, plural
+verb.peal.impf.p3.f.sg	verb, pe‘al, imperfect, third person, feminine, singular
+verb.peal.impf.p3.m.pl	verb, pe‘al, imperfect, third person, masculine, plural
+verb.peal.impf.p3.m.sg	verb, pe‘al, imperfect, third person, masculine, singular
+verb.peal.impv.p2.f.sg	verb, pe‘al, imperative, second person, feminine, singular
+verb.peal.impv.p2.m.pl	verb, pe‘al, imperative, second person, masculine, plural
+verb.peal.impv.p2.m.sg	verb, pe‘al, imperative, second person, masculine, singular
+verb.peal.infc.u.u.u.a	verb, pe‘al, infinitive (construct), unknown, unknown, unknown, absolute
+verb.peal.infc.u.u.u.c	verb, pe‘al, infinitive (construct), unknown, unknown, unknown, construct
+verb.peal.perf.p1.u.pl	verb, pe‘al, perfect, first person, unknown, plural
+verb.peal.perf.p1.u.sg	verb, pe‘al, perfect, first person, unknown, singular
+verb.peal.perf.p2.m.pl	verb, pe‘al, perfect, second person, masculine, plural
+verb.peal.perf.p2.m.sg	verb, pe‘al, perfect, second person, masculine, singular
+verb.peal.perf.p3.f.pl	verb, pe‘al, perfect, third person, feminine, plural
+verb.peal.perf.p3.f.sg	verb, pe‘al, perfect, third person, feminine, singular
+verb.peal.perf.p3.m.pl	verb, pe‘al, perfect, third person, masculine, plural
+verb.peal.perf.p3.m.sg	verb, pe‘al, perfect, third person, masculine, singular
+verb.peal.ptca.u.f.pl.a	verb, pe‘al, participle, unknown, feminine, plural, absolute
+verb.peal.ptca.u.f.sg.a	verb, pe‘al, participle, unknown, feminine, singular, absolute
+verb.peal.ptca.u.m.pl.a	verb, pe‘al, participle, unknown, masculine, plural, absolute
+verb.peal.ptca.u.m.pl.c	verb, pe‘al, participle, unknown, masculine, plural, construct
+verb.peal.ptca.u.m.sg.a	verb, pe‘al, participle, unknown, masculine, singular, absolute
+verb.peal.ptcp.u.f.pl.a	verb, pe‘al, participle (passive), unknown, feminine, plural, absolute
+verb.peal.ptcp.u.f.sg.a	verb, pe‘al, participle (passive), unknown, feminine, singular, absolute
+verb.peal.ptcp.u.m.pl.a	verb, pe‘al, participle (passive), unknown, masculine, plural, absolute
+verb.peal.ptcp.u.m.sg.a	verb, pe‘al, participle (passive), unknown, masculine, singular, absolute
+verb.peil.perf.p2.m.sg	verb, pe‘il, perfect, second person, masculine, singular
+verb.peil.perf.p3.f.sg	verb, pe‘il, perfect, third person, feminine, singular
+verb.peil.perf.p3.m.pl	verb, pe‘il, perfect, third person, masculine, plural
+verb.peil.perf.p3.m.sg	verb, pe‘il, perfect, third person, masculine, singular
+verb.piel.impf.p1.u.pl	verb, pi“el, imperfect, first person, unknown, plural
+verb.piel.impf.p1.u.sg	verb, pi“el, imperfect, first person, unknown, singular
+verb.piel.impf.p2.f.pl	verb, pi“el, imperfect, second person, feminine, plural
+verb.piel.impf.p2.f.sg	verb, pi“el, imperfect, second person, feminine, singular
+verb.piel.impf.p2.m.pl	verb, pi“el, imperfect, second person, masculine, plural
+verb.piel.impf.p2.m.sg	verb, pi“el, imperfect, second person, masculine, singular
+verb.piel.impf.p3.f.pl	verb, pi“el, imperfect, third person, feminine, plural
+verb.piel.impf.p3.f.sg	verb, pi“el, imperfect, third person, feminine, singular
+verb.piel.impf.p3.m.pl	verb, pi“el, imperfect, third person, masculine, plural
+verb.piel.impf.p3.m.sg	verb, pi“el, imperfect, third person, masculine, singular
+verb.piel.impv.p2.f.pl	verb, pi“el, imperative, second person, feminine, plural
+verb.piel.impv.p2.f.sg	verb, pi“el, imperative, second person, feminine, singular
+verb.piel.impv.p2.m.pl	verb, pi“el, imperative, second person, masculine, plural
+verb.piel.impv.p2.m.sg	verb, pi“el, imperative, second person, masculine, singular
+verb.piel.infa.u.u.u.a	verb, pi“el, infinitive (absolute), unknown, unknown, unknown, absolute
+verb.piel.infc.u.u.u.a	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute
+verb.piel.infc.u.u.u.c	verb, pi“el, infinitive (construct), unknown, unknown, unknown, construct
+verb.piel.perf.p1.u.pl	verb, pi“el, perfect, first person, unknown, plural
+verb.piel.perf.p1.u.sg	verb, pi“el, perfect, first person, unknown, singular
+verb.piel.perf.p2.f.pl	verb, pi“el, perfect, second person, feminine, plural
+verb.piel.perf.p2.f.sg	verb, pi“el, perfect, second person, feminine, singular
+verb.piel.perf.p2.m.pl	verb, pi“el, perfect, second person, masculine, plural
+verb.piel.perf.p2.m.sg	verb, pi“el, perfect, second person, masculine, singular
+verb.piel.perf.p3.f.sg	verb, pi“el, perfect, third person, feminine, singular
+verb.piel.perf.p3.m.sg	verb, pi“el, perfect, third person, masculine, singular
+verb.piel.perf.p3.u.pl	verb, pi“el, perfect, third person, unknown, plural
+verb.piel.ptca.u.f.pl.a	verb, pi“el, participle, unknown, feminine, plural, absolute
+verb.piel.ptca.u.f.sg.a	verb, pi“el, participle, unknown, feminine, singular, absolute
+verb.piel.ptca.u.f.sg.c	verb, pi“el, participle, unknown, feminine, singular, construct
+verb.piel.ptca.u.m.pl.a	verb, pi“el, participle, unknown, masculine, plural, absolute
+verb.piel.ptca.u.m.pl.c	verb, pi“el, participle, unknown, masculine, plural, construct
+verb.piel.ptca.u.m.sg.a	verb, pi“el, participle, unknown, masculine, singular, absolute
+verb.piel.ptca.u.m.sg.c	verb, pi“el, participle, unknown, masculine, singular, construct
+verb.piel.wayq.p1.u.pl	verb, pi“el, wayyiqtol, first person, unknown, plural
+verb.piel.wayq.p1.u.sg	verb, pi“el, wayyiqtol, first person, unknown, singular
+verb.piel.wayq.p2.f.pl	verb, pi“el, wayyiqtol, second person, feminine, plural
+verb.piel.wayq.p2.f.sg	verb, pi“el, wayyiqtol, second person, feminine, singular
+verb.piel.wayq.p2.m.pl	verb, pi“el, wayyiqtol, second person, masculine, plural
+verb.piel.wayq.p2.m.sg	verb, pi“el, wayyiqtol, second person, masculine, singular
+verb.piel.wayq.p3.f.pl	verb, pi“el, wayyiqtol, third person, feminine, plural
+verb.piel.wayq.p3.f.sg	verb, pi“el, wayyiqtol, third person, feminine, singular
+verb.piel.wayq.p3.m.pl	verb, pi“el, wayyiqtol, third person, masculine, plural
+verb.piel.wayq.p3.m.sg	verb, pi“el, wayyiqtol, third person, masculine, singular
+verb.poal.impf.p3.m.pl	verb, po“al, imperfect, third person, masculine, plural
+verb.poal.perf.p1.u.sg	verb, po“al, perfect, first person, unknown, singular
+verb.poal.perf.p3.u.pl	verb, po“al, perfect, third person, unknown, plural
+verb.poel.impf.p3.m.sg	verb, po“el, imperfect, third person, masculine, singular
+verb.poel.perf.p1.u.sg	verb, po“el, perfect, first person, unknown, singular
+verb.poel.perf.p3.m.sg	verb, po“el, perfect, third person, masculine, singular
+verb.poel.perf.p3.u.pl	verb, po“el, perfect, third person, unknown, plural
+verb.pual.impf.p2.f.sg	verb, pu“al, imperfect, second person, feminine, singular
+verb.pual.impf.p2.m.pl	verb, pu“al, imperfect, second person, masculine, plural
+verb.pual.impf.p3.f.pl	verb, pu“al, imperfect, third person, feminine, plural
+verb.pual.impf.p3.f.sg	verb, pu“al, imperfect, third person, feminine, singular
+verb.pual.impf.p3.m.pl	verb, pu“al, imperfect, third person, masculine, plural
+verb.pual.impf.p3.m.sg	verb, pu“al, imperfect, third person, masculine, singular
+verb.pual.perf.p1.u.pl	verb, pu“al, perfect, first person, unknown, plural
+verb.pual.perf.p1.u.sg	verb, pu“al, perfect, first person, unknown, singular
+verb.pual.perf.p2.f.sg	verb, pu“al, perfect, second person, feminine, singular
+verb.pual.perf.p2.m.pl	verb, pu“al, perfect, second person, masculine, plural
+verb.pual.perf.p2.m.sg	verb, pu“al, perfect, second person, masculine, singular
+verb.pual.perf.p3.f.sg	verb, pu“al, perfect, third person, feminine, singular
+verb.pual.perf.p3.m.sg	verb, pu“al, perfect, third person, masculine, singular
+verb.pual.perf.p3.u.pl	verb, pu“al, perfect, third person, unknown, plural
+verb.pual.ptcp.u.f.pl.a	verb, pu“al, participle (passive), unknown, feminine, plural, absolute
+verb.pual.ptcp.u.f.sg.a	verb, pu“al, participle (passive), unknown, feminine, singular, absolute
+verb.pual.ptcp.u.m.pl.a	verb, pu“al, participle (passive), unknown, masculine, plural, absolute
+verb.pual.ptcp.u.m.sg.a	verb, pu“al, participle (passive), unknown, masculine, singular, absolute
+verb.pual.ptcp.u.m.sg.c	verb, pu“al, participle (passive), unknown, masculine, singular, construct
+verb.pual.wayq.p3.m.pl	verb, pu“al, wayyiqtol, third person, masculine, plural
+verb.pual.wayq.p3.m.sg	verb, pu“al, wayyiqtol, third person, masculine, singular
+verb.qal.impf.p1.u.pl	verb, qal, imperfect, first person, unknown, plural
+verb.qal.impf.p1.u.sg	verb, qal, imperfect, first person, unknown, singular
+verb.qal.impf.p2.f.pl	verb, qal, imperfect, second person, feminine, plural
+verb.qal.impf.p2.f.sg	verb, qal, imperfect, second person, feminine, singular
+verb.qal.impf.p2.m.pl	verb, qal, imperfect, second person, masculine, plural
+verb.qal.impf.p2.m.sg	verb, qal, imperfect, second person, masculine, singular
+verb.qal.impf.p3.f.pl	verb, qal, imperfect, third person, feminine, plural
+verb.qal.impf.p3.f.sg	verb, qal, imperfect, third person, feminine, singular
+verb.qal.impf.p3.m.pl	verb, qal, imperfect, third person, masculine, plural
+verb.qal.impf.p3.m.sg	verb, qal, imperfect, third person, masculine, singular
+verb.qal.impv.p2.f.pl	verb, qal, imperative, second person, feminine, plural
+verb.qal.impv.p2.f.sg	verb, qal, imperative, second person, feminine, singular
+verb.qal.impv.p2.m.pl	verb, qal, imperative, second person, masculine, plural
+verb.qal.impv.p2.m.sg	verb, qal, imperative, second person, masculine, singular
+verb.qal.infa.u.u.u.a	verb, qal, infinitive (absolute), unknown, unknown, unknown, absolute
+verb.qal.infc.u.u.u.a	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute
+verb.qal.infc.u.u.u.c	verb, qal, infinitive (construct), unknown, unknown, unknown, construct
+verb.qal.perf.p1.u.pl	verb, qal, perfect, first person, unknown, plural
+verb.qal.perf.p1.u.sg	verb, qal, perfect, first person, unknown, singular
+verb.qal.perf.p2.f.pl	verb, qal, perfect, second person, feminine, plural
+verb.qal.perf.p2.f.sg	verb, qal, perfect, second person, feminine, singular
+verb.qal.perf.p2.m.pl	verb, qal, perfect, second person, masculine, plural
+verb.qal.perf.p2.m.sg	verb, qal, perfect, second person, masculine, singular
+verb.qal.perf.p3.f.sg	verb, qal, perfect, third person, feminine, singular
+verb.qal.perf.p3.m.sg	verb, qal, perfect, third person, masculine, singular
+verb.qal.perf.p3.u.pl	verb, qal, perfect, third person, unknown, plural
+verb.qal.ptca.u.f.pl.a	verb, qal, participle, unknown, feminine, plural, absolute
+verb.qal.ptca.u.f.sg.a	verb, qal, participle, unknown, feminine, singular, absolute
+verb.qal.ptca.u.f.sg.c	verb, qal, participle, unknown, feminine, singular, construct
+verb.qal.ptca.u.m.pl.a	verb, qal, participle, unknown, masculine, plural, absolute
+verb.qal.ptca.u.m.pl.c	verb, qal, participle, unknown, masculine, plural, construct
+verb.qal.ptca.u.m.sg.a	verb, qal, participle, unknown, masculine, singular, absolute
+verb.qal.ptca.u.m.sg.c	verb, qal, participle, unknown, masculine, singular, construct
+verb.qal.ptcp.u.f.pl.a	verb, qal, participle (passive), unknown, feminine, plural, absolute
+verb.qal.ptcp.u.f.sg.a	verb, qal, participle (passive), unknown, feminine, singular, absolute
+verb.qal.ptcp.u.m.pl.a	verb, qal, participle (passive), unknown, masculine, plural, absolute
+verb.qal.ptcp.u.m.pl.c	verb, qal, participle (passive), unknown, masculine, plural, construct
+verb.qal.ptcp.u.m.sg.a	verb, qal, participle (passive), unknown, masculine, singular, absolute
+verb.qal.ptcp.u.m.sg.c	verb, qal, participle (passive), unknown, masculine, singular, construct
+verb.qal.wayq.p1.u.pl	verb, qal, wayyiqtol, first person, unknown, plural
+verb.qal.wayq.p1.u.sg	verb, qal, wayyiqtol, first person, unknown, singular
+verb.qal.wayq.p2.f.sg	verb, qal, wayyiqtol, second person, feminine, singular
+verb.qal.wayq.p2.m.pl	verb, qal, wayyiqtol, second person, masculine, plural
+verb.qal.wayq.p2.m.sg	verb, qal, wayyiqtol, second person, masculine, singular
+verb.qal.wayq.p3.f.pl	verb, qal, wayyiqtol, third person, feminine, plural
+verb.qal.wayq.p3.f.sg	verb, qal, wayyiqtol, third person, feminine, singular
+verb.qal.wayq.p3.m.pl	verb, qal, wayyiqtol, third person, masculine, plural
+verb.qal.wayq.p3.m.sg	verb, qal, wayyiqtol, third person, masculine, singular
+verb.shaf.impf.p3.m.sg	verb, shaf‘el, imperfect, third person, masculine, singular
+verb.shaf.infc.u.u.u.a	verb, shaf‘el, infinitive (construct), unknown, unknown, unknown, absolute
+verb.shaf.perf.p3.m.pl	verb, shaf‘el, perfect, third person, masculine, plural
+verb.shaf.perf.p3.m.sg	verb, shaf‘el, perfect, third person, masculine, singular
+verb.shaf.ptca.u.m.sg.a	verb, shaf‘el, participle, unknown, masculine, singular, absolute
+verb.tif.impf.p2.m.sg	verb, tif‘al, imperfect, second person, masculine, singular
+verb.tif.perf.p1.u.sg	verb, tif‘al, perfect, first person, unknown, singular
+verb.tif.ptca.u.m.sg.a	verb, tif‘al, participle, unknown, masculine, singular, absolute
+prs.p1.u.pl	pronominal suffix, first person, unknown, plural
+prs.p1.u.sg	pronominal suffix, first person, unknown, singular
+prs.p2.f.pl	pronominal suffix, second person, feminine, plural
+prs.p2.f.sg	pronominal suffix, second person, feminine, singular
+prs.p2.m.pl	pronominal suffix, second person, masculine, plural
+prs.p2.m.sg	pronominal suffix, second person, masculine, singular
+prs.p3.f.pl	pronominal suffix, third person, feminine, plural
+prs.p3.f.sg	pronominal suffix, third person, feminine, singular
+prs.p3.m.pl	pronominal suffix, third person, masculine, plural
+prs.p3.m.sg	pronominal suffix, third person, masculine, singular
