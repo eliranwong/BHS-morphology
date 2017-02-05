@@ -1,0 +1,684 @@
+<m>4c.advb.f.pl.a.prs.p2.f.sg</m>	adverb, feminine, plural, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.advb.f.pl.a.prs.p2.m.pl</m>	adverb, feminine, plural, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.advb.f.pl.a.prs.p3.f.sg</m>	adverb, feminine, plural, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.advb.f.pl.a.prs.p3.m.sg</m>	adverb, feminine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.advb.m.pl.a.prs.p1.u.pl</m>	adverb, masculine, plural, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.advb.m.pl.a.prs.p2.m.sg</m>	adverb, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.advb.m.pl.a.prs.p3.m.sg</m>	adverb, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.advb.m.sg.a.prs.p1.u.sg</m>	adverb, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.advb.m.sg.a.prs.p2.f.sg</m>	adverb, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.advb.m.sg.a.prs.p2.m.sg</m>	adverb, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.advb.m.sg.a.prs.p3.f.sg</m>	adverb, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.advb.m.sg.a.prs.p3.m.pl</m>	adverb, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.advb.m.sg.a.prs.p3.m.sg</m>	adverb, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.inrg.prs.p2.m.sg</m>	interrogative particle, pronominal suffix, second person, masculine, singular
+<m>4c.inrg.prs.p3.m.pl</m>	interrogative particle, pronominal suffix, third person, masculine, plural
+<m>4c.inrg.prs.p3.m.sg</m>	interrogative particle, pronominal suffix, third person, masculine, singular
+<m>4c.intj.prs.p1.u.pl</m>	interjection, pronominal suffix, first person, unknown, plural
+<m>4c.intj.prs.p1.u.sg</m>	interjection, pronominal suffix, first person, unknown, singular
+<m>4c.intj.prs.p2.f.sg</m>	interjection, pronominal suffix, second person, feminine, singular
+<m>4c.intj.prs.p2.m.pl</m>	interjection, pronominal suffix, second person, masculine, plural
+<m>4c.intj.prs.p2.m.sg</m>	interjection, pronominal suffix, second person, masculine, singular
+<m>4c.intj.prs.p3.m.pl</m>	interjection, pronominal suffix, third person, masculine, plural
+<m>4c.intj.prs.p3.m.sg</m>	interjection, pronominal suffix, third person, masculine, singular
+<m>4c.nega.m.sg.a.prs.p1.u.pl</m>	negative particle, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.nega.m.sg.a.prs.p1.u.sg</m>	negative particle, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.nega.m.sg.a.prs.p2.f.sg</m>	negative particle, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.nega.m.sg.a.prs.p2.m.pl</m>	negative particle, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.nega.m.sg.a.prs.p2.m.sg</m>	negative particle, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.nega.m.sg.a.prs.p3.f.sg</m>	negative particle, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.nega.m.sg.a.prs.p3.m.pl</m>	negative particle, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.nega.m.sg.a.prs.p3.m.sg</m>	negative particle, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.prep.f.sg.a.prs.p1.u.sg</m>	preposition, feminine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.prep.f.sg.a.prs.p2.m.sg</m>	preposition, feminine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.prep.f.sg.a.prs.p3.f.sg</m>	preposition, feminine, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.prep.m.pl.a.prs.p1.u.pl</m>	preposition, masculine, plural, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.prep.m.pl.a.prs.p2.f.sg</m>	preposition, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.prep.m.pl.a.prs.p2.m.pl</m>	preposition, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.prep.m.pl.a.prs.p2.m.sg</m>	preposition, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.prep.m.pl.a.prs.p3.f.pl</m>	preposition, masculine, plural, absolute, pronominal suffix, third person, feminine, plural
+<m>4c.prep.m.pl.a.prs.p3.f.sg</m>	preposition, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.prep.m.pl.a.prs.p3.m.pl</m>	preposition, masculine, plural, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.prep.m.pl.a.prs.p3.m.sg</m>	preposition, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.prep.m.sg.a.prs.p1.u.pl</m>	preposition, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.prep.m.sg.a.prs.p1.u.sg</m>	preposition, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.prep.m.sg.a.prs.p2.f.sg</m>	preposition, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.prep.m.sg.a.prs.p2.m.pl</m>	preposition, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.prep.m.sg.a.prs.p2.m.sg</m>	preposition, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.prep.m.sg.a.prs.p3.f.sg</m>	preposition, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.prep.m.sg.a.prs.p3.m.pl</m>	preposition, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.prep.m.sg.a.prs.p3.m.sg</m>	preposition, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.prep.prs.p1.u.pl</m>	preposition, pronominal suffix, first person, unknown, plural
+<m>4c.prep.prs.p1.u.sg</m>	preposition, pronominal suffix, first person, unknown, singular
+<m>4c.prep.prs.p2.f.pl</m>	preposition, pronominal suffix, second person, feminine, plural
+<m>4c.prep.prs.p2.f.sg</m>	preposition, pronominal suffix, second person, feminine, singular
+<m>4c.prep.prs.p2.m.pl</m>	preposition, pronominal suffix, second person, masculine, plural
+<m>4c.prep.prs.p2.m.sg</m>	preposition, pronominal suffix, second person, masculine, singular
+<m>4c.prep.prs.p3.f.pl</m>	preposition, pronominal suffix, third person, feminine, plural
+<m>4c.prep.prs.p3.f.sg</m>	preposition, pronominal suffix, third person, feminine, singular
+<m>4c.prep.prs.p3.m.pl</m>	preposition, pronominal suffix, third person, masculine, plural
+<m>4c.prep.prs.p3.m.sg</m>	preposition, pronominal suffix, third person, masculine, singular
+<m>4c.prep.u.sg.a.prs.p1.u.pl</m>	preposition, unknown, singular, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.prep.u.sg.a.prs.p1.u.sg</m>	preposition, unknown, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.prep.u.sg.a.prs.p2.f.sg</m>	preposition, unknown, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.prep.u.sg.a.prs.p2.m.pl</m>	preposition, unknown, singular, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.prep.u.sg.a.prs.p2.m.sg</m>	preposition, unknown, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.prep.u.sg.a.prs.p3.f.sg</m>	preposition, unknown, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.prep.u.sg.a.prs.p3.m.pl</m>	preposition, unknown, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.prep.u.sg.a.prs.p3.m.sg</m>	preposition, unknown, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.f.du.a.prs.p1.u.pl</m>	noun, feminine, dual, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.f.du.a.prs.p1.u.sg</m>	noun, feminine, dual, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.f.du.a.prs.p2.f.sg</m>	noun, feminine, dual, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.f.du.a.prs.p2.m.pl</m>	noun, feminine, dual, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.f.du.a.prs.p2.m.sg</m>	noun, feminine, dual, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.f.du.a.prs.p3.f.pl</m>	noun, feminine, dual, absolute, pronominal suffix, third person, feminine, plural
+<m>4c.subs.f.du.a.prs.p3.f.sg</m>	noun, feminine, dual, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.f.du.a.prs.p3.m.pl</m>	noun, feminine, dual, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.f.du.a.prs.p3.m.sg</m>	noun, feminine, dual, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.f.pl.a.prs.p1.u.pl</m>	noun, feminine, plural, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.f.pl.a.prs.p1.u.sg</m>	noun, feminine, plural, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.f.pl.a.prs.p2.f.pl</m>	noun, feminine, plural, absolute, pronominal suffix, second person, feminine, plural
+<m>4c.subs.f.pl.a.prs.p2.f.sg</m>	noun, feminine, plural, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.f.pl.a.prs.p2.m.pl</m>	noun, feminine, plural, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.f.pl.a.prs.p2.m.sg</m>	noun, feminine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.f.pl.a.prs.p3.f.pl</m>	noun, feminine, plural, absolute, pronominal suffix, third person, feminine, plural
+<m>4c.subs.f.pl.a.prs.p3.f.sg</m>	noun, feminine, plural, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.f.pl.a.prs.p3.m.pl</m>	noun, feminine, plural, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.f.pl.a.prs.p3.m.sg</m>	noun, feminine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.f.sg.a.prs.p1.u.pl</m>	noun, feminine, singular, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.f.sg.a.prs.p1.u.sg</m>	noun, feminine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.f.sg.a.prs.p2.f.pl</m>	noun, feminine, singular, absolute, pronominal suffix, second person, feminine, plural
+<m>4c.subs.f.sg.a.prs.p2.f.sg</m>	noun, feminine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.f.sg.a.prs.p2.m.pl</m>	noun, feminine, singular, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.f.sg.a.prs.p2.m.sg</m>	noun, feminine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.f.sg.a.prs.p3.f.pl</m>	noun, feminine, singular, absolute, pronominal suffix, third person, feminine, plural
+<m>4c.subs.f.sg.a.prs.p3.f.sg</m>	noun, feminine, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.f.sg.a.prs.p3.m.pl</m>	noun, feminine, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.f.sg.a.prs.p3.m.sg</m>	noun, feminine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.hif.infc.u.u.u.a.prs.p3.m.sg</m>	noun, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.hif.ptca.u.m.pl.a.prs.p2.f.sg</m>	noun, hif‘il, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.hif.ptca.u.m.pl.a.prs.p2.m.sg</m>	noun, hif‘il, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.hif.ptca.u.m.pl.a.prs.p3.f.sg</m>	noun, hif‘il, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.hif.ptca.u.m.pl.a.prs.p3.m.sg</m>	noun, hif‘il, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.hif.ptca.u.m.sg.a.prs.p1.u.sg</m>	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.hif.ptca.u.m.sg.a.prs.p2.f.sg</m>	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.hif.ptca.u.m.sg.a.prs.p2.m.pl</m>	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.hif.ptca.u.m.sg.a.prs.p2.m.sg</m>	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.hif.ptca.u.m.sg.a.prs.p3.f.sg</m>	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.hif.ptca.u.m.sg.a.prs.p3.m.pl</m>	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.hif.ptca.u.m.sg.a.prs.p3.m.sg</m>	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.hit.ptca.u.m.pl.a.prs.p2.m.sg</m>	noun, hitpa“el, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.hit.ptca.u.m.sg.a.prs.p1.u.sg</m>	noun, hitpa“el, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.hit.ptca.u.m.sg.a.prs.p3.m.sg</m>	noun, hitpa“el, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.m.du.a.prs.p1.u.pl</m>	noun, masculine, dual, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.m.du.a.prs.p2.f.sg</m>	noun, masculine, dual, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.m.du.a.prs.p2.m.pl</m>	noun, masculine, dual, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.m.du.a.prs.p2.m.sg</m>	noun, masculine, dual, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.m.du.a.prs.p3.f.pl</m>	noun, masculine, dual, absolute, pronominal suffix, third person, feminine, plural
+<m>4c.subs.m.du.a.prs.p3.f.sg</m>	noun, masculine, dual, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.m.du.a.prs.p3.m.pl</m>	noun, masculine, dual, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.m.du.a.prs.p3.m.sg</m>	noun, masculine, dual, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.m.pl.a.prs.p1.u.pl</m>	noun, masculine, plural, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.m.pl.a.prs.p1.u.sg</m>	noun, masculine, plural, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.m.pl.a.prs.p2.f.pl</m>	noun, masculine, plural, absolute, pronominal suffix, second person, feminine, plural
+<m>4c.subs.m.pl.a.prs.p2.f.sg</m>	noun, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.m.pl.a.prs.p2.m.pl</m>	noun, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.m.pl.a.prs.p2.m.sg</m>	noun, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.m.pl.a.prs.p3.f.pl</m>	noun, masculine, plural, absolute, pronominal suffix, third person, feminine, plural
+<m>4c.subs.m.pl.a.prs.p3.f.sg</m>	noun, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.m.pl.a.prs.p3.m.pl</m>	noun, masculine, plural, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.m.pl.a.prs.p3.m.sg</m>	noun, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.m.sg.a.prs.p1.u.pl</m>	noun, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.m.sg.a.prs.p1.u.sg</m>	noun, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.m.sg.a.prs.p2.f.pl</m>	noun, masculine, singular, absolute, pronominal suffix, second person, feminine, plural
+<m>4c.subs.m.sg.a.prs.p2.f.sg</m>	noun, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.m.sg.a.prs.p2.m.pl</m>	noun, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.m.sg.a.prs.p2.m.sg</m>	noun, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.m.sg.a.prs.p3.f.pl</m>	noun, masculine, singular, absolute, pronominal suffix, third person, feminine, plural
+<m>4c.subs.m.sg.a.prs.p3.f.sg</m>	noun, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.m.sg.a.prs.p3.m.pl</m>	noun, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.m.sg.a.prs.p3.m.sg</m>	noun, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.nif.ptca.u.f.pl.a.prs.p2.m.sg</m>	noun, nif‘al, participle, unknown, feminine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.nif.ptca.u.f.pl.a.prs.p3.m.sg</m>	noun, nif‘al, participle, unknown, feminine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.nif.ptca.u.m.pl.a.prs.p2.f.sg</m>	noun, nif‘al, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.nif.ptca.u.m.pl.a.prs.p3.f.sg</m>	noun, nif‘al, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.nif.ptca.u.m.pl.a.prs.p3.m.pl</m>	noun, nif‘al, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.nif.ptca.u.m.pl.a.prs.p3.m.sg</m>	noun, nif‘al, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.nif.ptca.u.m.sg.a.prs.p2.m.pl</m>	noun, nif‘al, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.nif.ptca.u.m.sg.a.prs.p2.m.sg</m>	noun, nif‘al, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.nif.ptca.u.m.sg.a.prs.p3.m.sg</m>	noun, nif‘al, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.peal.infc.u.u.u.a.prs.p3.f.sg</m>	noun, pe‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.peal.ptca.u.m.pl.a.prs.p2.m.sg</m>	noun, pe‘al, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.peal.ptca.u.m.pl.a.prs.p3.m.sg</m>	noun, pe‘al, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.piel.infc.u.u.u.a.prs.p1.u.sg</m>	noun, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.piel.ptca.u.m.pl.a.prs.p1.u.pl</m>	noun, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.piel.ptca.u.m.pl.a.prs.p2.f.sg</m>	noun, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.piel.ptca.u.m.pl.a.prs.p2.m.pl</m>	noun, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.piel.ptca.u.m.pl.a.prs.p2.m.sg</m>	noun, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.piel.ptca.u.m.pl.a.prs.p3.f.sg</m>	noun, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.piel.ptca.u.m.pl.a.prs.p3.m.sg</m>	noun, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.piel.ptca.u.m.sg.a.prs.p1.u.sg</m>	noun, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.piel.ptca.u.m.sg.a.prs.p2.f.sg</m>	noun, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.piel.ptca.u.m.sg.a.prs.p2.m.sg</m>	noun, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.piel.ptca.u.m.sg.a.prs.p3.m.pl</m>	noun, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.piel.ptca.u.m.sg.a.prs.p3.m.sg</m>	noun, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.poel.ptca.u.m.sg.a.prs.p1.u.sg</m>	noun, po“el, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.pual.infc.u.u.u.a.prs.p3.m.sg</m>	noun, pu“al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.pual.ptcp.u.m.pl.a.prs.p3.m.sg</m>	noun, pu“al, participle (passive), unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.pual.ptcp.u.m.sg.a.prs.p1.u.sg</m>	noun, pu“al, participle (passive), unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.qal.infc.u.u.u.a.prs.p1.u.sg</m>	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.qal.infc.u.u.u.a.prs.p2.f.sg</m>	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.qal.infc.u.u.u.a.prs.p2.m.sg</m>	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.qal.infc.u.u.u.a.prs.p3.f.sg</m>	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.qal.infc.u.u.u.a.prs.p3.m.pl</m>	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.qal.infc.u.u.u.a.prs.p3.m.sg</m>	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.qal.ptca.u.f.pl.a.prs.p1.u.pl</m>	noun, qal, participle, unknown, feminine, plural, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.qal.ptca.u.f.pl.a.prs.p2.f.sg</m>	noun, qal, participle, unknown, feminine, plural, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.qal.ptca.u.f.sg.a.prs.p1.u.sg</m>	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.qal.ptca.u.f.sg.a.prs.p2.f.sg</m>	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.qal.ptca.u.f.sg.a.prs.p2.m.pl</m>	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.qal.ptca.u.f.sg.a.prs.p2.m.sg</m>	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.qal.ptca.u.f.sg.a.prs.p3.f.sg</m>	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.qal.ptca.u.f.sg.a.prs.p3.m.pl</m>	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.qal.ptca.u.f.sg.a.prs.p3.m.sg</m>	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.qal.ptca.u.m.pl.a.prs.p1.u.pl</m>	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.qal.ptca.u.m.pl.a.prs.p1.u.sg</m>	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.qal.ptca.u.m.pl.a.prs.p2.f.sg</m>	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.qal.ptca.u.m.pl.a.prs.p2.m.pl</m>	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.qal.ptca.u.m.pl.a.prs.p2.m.sg</m>	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.qal.ptca.u.m.pl.a.prs.p3.f.pl</m>	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, plural
+<m>4c.subs.qal.ptca.u.m.pl.a.prs.p3.f.sg</m>	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.qal.ptca.u.m.pl.a.prs.p3.m.pl</m>	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.qal.ptca.u.m.pl.a.prs.p3.m.sg</m>	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.qal.ptca.u.m.sg.a.prs.p1.u.pl</m>	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.qal.ptca.u.m.sg.a.prs.p1.u.sg</m>	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.qal.ptca.u.m.sg.a.prs.p2.f.sg</m>	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.qal.ptca.u.m.sg.a.prs.p2.m.pl</m>	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.qal.ptca.u.m.sg.a.prs.p2.m.sg</m>	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.qal.ptca.u.m.sg.a.prs.p3.f.sg</m>	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.qal.ptca.u.m.sg.a.prs.p3.m.pl</m>	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.qal.ptca.u.m.sg.a.prs.p3.m.sg</m>	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.qal.ptcp.u.m.pl.a.prs.p2.m.pl</m>	noun, qal, participle (passive), unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.qal.ptcp.u.m.pl.a.prs.p2.m.sg</m>	noun, qal, participle (passive), unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.qal.ptcp.u.m.pl.a.prs.p3.f.sg</m>	noun, qal, participle (passive), unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.qal.ptcp.u.m.pl.a.prs.p3.m.pl</m>	noun, qal, participle (passive), unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.qal.ptcp.u.m.pl.a.prs.p3.m.sg</m>	noun, qal, participle (passive), unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.qal.ptcp.u.m.sg.a.prs.p1.u.pl</m>	noun, qal, participle (passive), unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.qal.ptcp.u.m.sg.a.prs.p1.u.sg</m>	noun, qal, participle (passive), unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.qal.ptcp.u.m.sg.a.prs.p2.m.sg</m>	noun, qal, participle (passive), unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.qal.ptcp.u.m.sg.a.prs.p3.m.sg</m>	noun, qal, participle (passive), unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.u.du.a.prs.p1.u.pl</m>	noun, unknown, dual, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.u.du.a.prs.p2.f.sg</m>	noun, unknown, dual, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.u.du.a.prs.p2.m.pl</m>	noun, unknown, dual, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.u.du.a.prs.p2.m.sg</m>	noun, unknown, dual, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.u.du.a.prs.p3.f.pl</m>	noun, unknown, dual, absolute, pronominal suffix, third person, feminine, plural
+<m>4c.subs.u.du.a.prs.p3.f.sg</m>	noun, unknown, dual, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.u.du.a.prs.p3.m.pl</m>	noun, unknown, dual, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.u.du.a.prs.p3.m.sg</m>	noun, unknown, dual, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.subs.u.sg.a.prs.p1.u.pl</m>	noun, unknown, singular, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.subs.u.sg.a.prs.p1.u.sg</m>	noun, unknown, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.subs.u.sg.a.prs.p2.f.pl</m>	noun, unknown, singular, absolute, pronominal suffix, second person, feminine, plural
+<m>4c.subs.u.sg.a.prs.p2.f.sg</m>	noun, unknown, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.subs.u.sg.a.prs.p2.m.pl</m>	noun, unknown, singular, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.subs.u.sg.a.prs.p2.m.sg</m>	noun, unknown, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.subs.u.sg.a.prs.p3.f.sg</m>	noun, unknown, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.subs.u.sg.a.prs.p3.m.pl</m>	noun, unknown, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.subs.u.sg.a.prs.p3.m.sg</m>	noun, unknown, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.afel.perf.p3.m.sg.prs.p3.f.sg</m>	verb, af‘el, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.haf.impf.p1.u.sg.prs.p3.f.sg</m>	verb, haf‘el, imperfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.haf.impf.p2.m.pl.prs.p1.u.sg</m>	verb, haf‘el, imperfect, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.haf.impf.p3.f.sg.prs.p3.m.sg</m>	verb, haf‘el, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.haf.impf.p3.m.pl.prs.p1.u.sg</m>	verb, haf‘el, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.haf.impf.p3.m.sg.prs.p1.u.sg</m>	verb, haf‘el, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.haf.impv.p2.m.pl.prs.p1.u.sg</m>	verb, haf‘el, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.haf.impv.p2.m.sg.prs.p1.u.sg</m>	verb, haf‘el, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.haf.infc.u.u.u.a.prs.p1.u.sg</m>	verb, haf‘el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.verb.haf.infc.u.u.u.a.prs.p2.m.sg</m>	verb, haf‘el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.verb.haf.infc.u.u.u.a.prs.p3.f.sg</m>	verb, haf‘el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.verb.haf.perf.p2.m.sg.prs.p1.u.pl</m>	verb, haf‘el, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.haf.perf.p2.m.sg.prs.p1.u.sg</m>	verb, haf‘el, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.haf.perf.p3.m.pl.prs.p1.u.pl</m>	verb, haf‘el, perfect, third person, masculine, plural, pronominal suffix, first person, unknown, plural
+<m>4c.verb.haf.perf.p3.m.pl.prs.p3.m.sg</m>	verb, haf‘el, perfect, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.haf.perf.p3.m.sg.prs.p2.m.sg</m>	verb, haf‘el, perfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.haf.perf.p3.m.sg.prs.p3.f.sg</m>	verb, haf‘el, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.haf.perf.p3.m.sg.prs.p3.m.sg</m>	verb, haf‘el, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.impf.p1.u.pl.prs.p2.m.sg</m>	verb, hif‘il, imperfect, first person, unknown, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hif.impf.p1.u.pl.prs.p3.f.sg</m>	verb, hif‘il, imperfect, first person, unknown, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.impf.p1.u.pl.prs.p3.m.pl</m>	verb, hif‘il, imperfect, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.impf.p1.u.pl.prs.p3.m.sg</m>	verb, hif‘il, imperfect, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.impf.p1.u.sg.prs.p2.f.sg</m>	verb, hif‘il, imperfect, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.hif.impf.p1.u.sg.prs.p2.m.sg</m>	verb, hif‘il, imperfect, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hif.impf.p1.u.sg.prs.p3.f.sg</m>	verb, hif‘il, imperfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.impf.p1.u.sg.prs.p3.m.pl</m>	verb, hif‘il, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.impf.p1.u.sg.prs.p3.m.sg</m>	verb, hif‘il, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.impf.p2.m.pl.prs.p1.u.sg</m>	verb, hif‘il, imperfect, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.impf.p2.m.pl.prs.p3.f.sg</m>	verb, hif‘il, imperfect, second person, masculine, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.impf.p2.m.pl.prs.p3.m.pl</m>	verb, hif‘il, imperfect, second person, masculine, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.impf.p2.m.pl.prs.p3.m.sg</m>	verb, hif‘il, imperfect, second person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.impf.p2.m.sg.prs.p1.u.pl</m>	verb, hif‘il, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.impf.p2.m.sg.prs.p1.u.sg</m>	verb, hif‘il, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.impf.p2.m.sg.prs.p3.f.sg</m>	verb, hif‘il, imperfect, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.impf.p2.m.sg.prs.p3.m.pl</m>	verb, hif‘il, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.impf.p2.m.sg.prs.p3.m.sg</m>	verb, hif‘il, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.impf.p3.f.pl.prs.p2.f.sg</m>	verb, hif‘il, imperfect, third person, feminine, plural, pronominal suffix, second person, feminine, singular
+<m>4c.verb.hif.impf.p3.f.sg.prs.p1.u.pl</m>	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.impf.p3.f.sg.prs.p1.u.sg</m>	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.impf.p3.f.sg.prs.p2.f.sg</m>	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.hif.impf.p3.f.sg.prs.p2.m.sg</m>	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hif.impf.p3.f.sg.prs.p3.f.sg</m>	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.impf.p3.f.sg.prs.p3.m.pl</m>	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.impf.p3.f.sg.prs.p3.m.sg</m>	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.impf.p3.m.pl.prs.p1.u.pl</m>	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.impf.p3.m.pl.prs.p1.u.sg</m>	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.impf.p3.m.pl.prs.p2.f.sg</m>	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, second person, feminine, singular
+<m>4c.verb.hif.impf.p3.m.pl.prs.p2.m.sg</m>	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hif.impf.p3.m.pl.prs.p3.f.sg</m>	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.impf.p3.m.pl.prs.p3.m.pl</m>	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.impf.p3.m.pl.prs.p3.m.sg</m>	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.impf.p3.m.sg.prs.p1.u.pl</m>	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.impf.p3.m.sg.prs.p1.u.sg</m>	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.impf.p3.m.sg.prs.p2.f.sg</m>	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.hif.impf.p3.m.sg.prs.p2.m.pl</m>	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, plural
+<m>4c.verb.hif.impf.p3.m.sg.prs.p2.m.sg</m>	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hif.impf.p3.m.sg.prs.p3.f.pl</m>	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, third person, feminine, plural
+<m>4c.verb.hif.impf.p3.m.sg.prs.p3.f.sg</m>	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.impf.p3.m.sg.prs.p3.m.pl</m>	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.impf.p3.m.sg.prs.p3.m.sg</m>	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.impv.p2.f.sg.prs.p1.u.sg</m>	verb, hif‘il, imperative, second person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.impv.p2.f.sg.prs.p3.m.sg</m>	verb, hif‘il, imperative, second person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.impv.p2.m.pl.prs.p1.u.pl</m>	verb, hif‘il, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.impv.p2.m.pl.prs.p1.u.sg</m>	verb, hif‘il, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.impv.p2.m.pl.prs.p3.f.sg</m>	verb, hif‘il, imperative, second person, masculine, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.impv.p2.m.pl.prs.p3.m.pl</m>	verb, hif‘il, imperative, second person, masculine, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.impv.p2.m.pl.prs.p3.m.sg</m>	verb, hif‘il, imperative, second person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.impv.p2.m.sg.prs.p1.u.pl</m>	verb, hif‘il, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.impv.p2.m.sg.prs.p1.u.sg</m>	verb, hif‘il, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.impv.p2.m.sg.prs.p3.f.sg</m>	verb, hif‘il, imperative, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.impv.p2.m.sg.prs.p3.m.pl</m>	verb, hif‘il, imperative, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.impv.p2.m.sg.prs.p3.m.sg</m>	verb, hif‘il, imperative, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.infc.u.u.u.a.prs.p1.u.pl</m>	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.infc.u.u.u.a.prs.p1.u.sg</m>	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.infc.u.u.u.a.prs.p2.f.sg</m>	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.verb.hif.infc.u.u.u.a.prs.p2.m.pl</m>	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.verb.hif.infc.u.u.u.a.prs.p2.m.sg</m>	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hif.infc.u.u.u.a.prs.p3.f.sg</m>	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.infc.u.u.u.a.prs.p3.m.pl</m>	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.infc.u.u.u.a.prs.p3.m.sg</m>	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.perf.p1.u.pl.prs.p3.m.pl</m>	verb, hif‘il, perfect, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.perf.p1.u.sg.prs.p2.f.sg</m>	verb, hif‘il, perfect, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.hif.perf.p1.u.sg.prs.p2.m.sg</m>	verb, hif‘il, perfect, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hif.perf.p1.u.sg.prs.p3.f.sg</m>	verb, hif‘il, perfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.perf.p1.u.sg.prs.p3.m.pl</m>	verb, hif‘il, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.perf.p1.u.sg.prs.p3.m.sg</m>	verb, hif‘il, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.perf.p2.f.sg.prs.p1.u.pl</m>	verb, hif‘il, perfect, second person, feminine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.perf.p2.f.sg.prs.p1.u.sg</m>	verb, hif‘il, perfect, second person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.perf.p2.f.sg.prs.p3.m.sg</m>	verb, hif‘il, perfect, second person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.perf.p2.m.pl.prs.p1.u.pl</m>	verb, hif‘il, perfect, second person, masculine, plural, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.perf.p2.m.sg.prs.p1.u.pl</m>	verb, hif‘il, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.perf.p2.m.sg.prs.p1.u.sg</m>	verb, hif‘il, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.perf.p2.m.sg.prs.p3.f.sg</m>	verb, hif‘il, perfect, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.perf.p2.m.sg.prs.p3.m.pl</m>	verb, hif‘il, perfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.perf.p2.m.sg.prs.p3.m.sg</m>	verb, hif‘il, perfect, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.perf.p3.f.sg.prs.p1.u.pl</m>	verb, hif‘il, perfect, third person, feminine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.perf.p3.f.sg.prs.p1.u.sg</m>	verb, hif‘il, perfect, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.perf.p3.f.sg.prs.p3.m.pl</m>	verb, hif‘il, perfect, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.perf.p3.f.sg.prs.p3.m.sg</m>	verb, hif‘il, perfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.perf.p3.m.sg.prs.p1.u.pl</m>	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.perf.p3.m.sg.prs.p1.u.sg</m>	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.perf.p3.m.sg.prs.p2.f.sg</m>	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.hif.perf.p3.m.sg.prs.p2.m.sg</m>	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hif.perf.p3.m.sg.prs.p3.f.sg</m>	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.perf.p3.m.sg.prs.p3.m.pl</m>	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.perf.p3.m.sg.prs.p3.m.sg</m>	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.perf.p3.u.pl.prs.p1.u.sg</m>	verb, hif‘il, perfect, third person, unknown, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.perf.p3.u.pl.prs.p2.f.sg</m>	verb, hif‘il, perfect, third person, unknown, plural, pronominal suffix, second person, feminine, singular
+<m>4c.verb.hif.perf.p3.u.pl.prs.p2.m.sg</m>	verb, hif‘il, perfect, third person, unknown, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hif.perf.p3.u.pl.prs.p3.f.sg</m>	verb, hif‘il, perfect, third person, unknown, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.perf.p3.u.pl.prs.p3.m.pl</m>	verb, hif‘il, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.perf.p3.u.pl.prs.p3.m.sg</m>	verb, hif‘il, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.ptca.u.m.sg.a.prs.p1.u.sg</m>	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.ptca.u.m.sg.a.prs.p2.f.sg</m>	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.verb.hif.ptca.u.m.sg.a.prs.p2.m.pl</m>	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.verb.hif.ptca.u.m.sg.a.prs.p2.m.sg</m>	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hif.ptca.u.m.sg.a.prs.p3.f.sg</m>	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.ptca.u.m.sg.a.prs.p3.m.pl</m>	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.ptca.u.m.sg.a.prs.p3.m.sg</m>	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.wayq.p1.u.pl.prs.p3.m.pl</m>	verb, hif‘il, wayyiqtol, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.wayq.p1.u.pl.prs.p3.m.sg</m>	verb, hif‘il, wayyiqtol, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.wayq.p1.u.sg.prs.p2.f.sg</m>	verb, hif‘il, wayyiqtol, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.hif.wayq.p1.u.sg.prs.p3.m.pl</m>	verb, hif‘il, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.wayq.p1.u.sg.prs.p3.m.sg</m>	verb, hif‘il, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.wayq.p2.m.pl.prs.p3.m.pl</m>	verb, hif‘il, wayyiqtol, second person, masculine, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.wayq.p2.m.sg.prs.p1.u.pl</m>	verb, hif‘il, wayyiqtol, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.wayq.p2.m.sg.prs.p1.u.sg</m>	verb, hif‘il, wayyiqtol, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.wayq.p2.m.sg.prs.p3.m.pl</m>	verb, hif‘il, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.wayq.p3.f.sg.prs.p1.u.sg</m>	verb, hif‘il, wayyiqtol, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.wayq.p3.f.sg.prs.p3.m.pl</m>	verb, hif‘il, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.wayq.p3.f.sg.prs.p3.m.sg</m>	verb, hif‘il, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.wayq.p3.m.pl.prs.p2.m.sg</m>	verb, hif‘il, wayyiqtol, third person, masculine, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hif.wayq.p3.m.pl.prs.p3.f.sg</m>	verb, hif‘il, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.wayq.p3.m.pl.prs.p3.m.pl</m>	verb, hif‘il, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.wayq.p3.m.pl.prs.p3.m.sg</m>	verb, hif‘il, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hif.wayq.p3.m.sg.prs.p1.u.pl</m>	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.hif.wayq.p3.m.sg.prs.p1.u.sg</m>	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.hif.wayq.p3.m.sg.prs.p2.m.sg</m>	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hif.wayq.p3.m.sg.prs.p3.f.pl</m>	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, feminine, plural
+<m>4c.verb.hif.wayq.p3.m.sg.prs.p3.f.sg</m>	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.hif.wayq.p3.m.sg.prs.p3.m.pl</m>	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hif.wayq.p3.m.sg.prs.p3.m.sg</m>	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hit.impf.p1.u.sg.prs.p3.m.pl</m>	verb, hitpa“el, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hit.infc.u.u.u.a.prs.p2.m.sg</m>	verb, hitpa“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.verb.hit.infc.u.u.u.a.prs.p3.m.pl</m>	verb, hitpa“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hit.infc.u.u.u.a.prs.p3.m.sg</m>	verb, hitpa“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.hit.perf.p3.u.pl.prs.p3.m.pl</m>	verb, hitpa“el, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hof.impf.p1.u.pl.prs.p3.m.pl</m>	verb, hof‘al, imperfect, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hof.impf.p2.m.sg.prs.p3.m.pl</m>	verb, hof‘al, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.hsht.infc.u.u.u.a.prs.p1.u.sg</m>	verb, hishtaf‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.verb.nif.impf.p2.m.sg.prs.p1.u.sg</m>	verb, nif‘al, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.nif.infc.u.u.u.a.prs.p1.u.sg</m>	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.verb.nif.infc.u.u.u.a.prs.p2.m.pl</m>	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.verb.nif.infc.u.u.u.a.prs.p2.m.sg</m>	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.verb.nif.infc.u.u.u.a.prs.p3.f.sg</m>	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.verb.nif.infc.u.u.u.a.prs.p3.m.pl</m>	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.verb.nif.infc.u.u.u.a.prs.p3.m.sg</m>	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.nif.wayq.p3.m.pl.prs.p1.u.sg</m>	verb, nif‘al, wayyiqtol, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.pael.impf.p3.m.pl.prs.p1.u.sg</m>	verb, pa“el, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.pael.impf.p3.m.pl.prs.p2.m.sg</m>	verb, pa“el, imperfect, third person, masculine, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.pael.impf.p3.m.pl.prs.p3.f.sg</m>	verb, pa“el, imperfect, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.pael.impf.p3.m.sg.prs.p1.u.sg</m>	verb, pa“el, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.pael.impf.p3.m.sg.prs.p2.m.sg</m>	verb, pa“el, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.pael.impf.p3.m.sg.prs.p3.m.sg</m>	verb, pa“el, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.pael.impv.p2.m.pl.prs.p3.m.sg</m>	verb, pa“el, imperative, second person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.pael.perf.p3.m.pl.prs.p1.u.sg</m>	verb, pa“el, perfect, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.peal.impf.p3.f.sg.prs.p3.m.sg</m>	verb, pe‘al, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.peal.impf.p3.m.sg.prs.p2.m.pl</m>	verb, pe‘al, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, plural
+<m>4c.verb.peal.impf.p3.m.sg.prs.p3.m.sg</m>	verb, pe‘al, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.peal.infc.u.u.u.a.prs.p3.f.sg</m>	verb, pe‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.verb.peal.perf.p1.u.sg.prs.p3.m.sg</m>	verb, pe‘al, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.peal.perf.p3.m.pl.prs.p3.m.sg</m>	verb, pe‘al, perfect, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.peal.perf.p3.m.sg.prs.p3.f.sg</m>	verb, pe‘al, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.peal.perf.p3.m.sg.prs.p3.m.sg</m>	verb, pe‘al, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.impf.p1.u.pl.prs.p3.m.sg</m>	verb, pi“el, imperfect, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.impf.p1.u.sg.prs.p2.f.sg</m>	verb, pi“el, imperfect, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.piel.impf.p1.u.sg.prs.p2.m.pl</m>	verb, pi“el, imperfect, first person, unknown, singular, pronominal suffix, second person, masculine, plural
+<m>4c.verb.piel.impf.p1.u.sg.prs.p2.m.sg</m>	verb, pi“el, imperfect, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.impf.p1.u.sg.prs.p3.f.sg</m>	verb, pi“el, imperfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.impf.p1.u.sg.prs.p3.m.pl</m>	verb, pi“el, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.impf.p1.u.sg.prs.p3.m.sg</m>	verb, pi“el, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.impf.p2.f.sg.prs.p3.m.pl</m>	verb, pi“el, imperfect, second person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.impf.p2.m.pl.prs.p1.u.sg</m>	verb, pi“el, imperfect, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.impf.p2.m.pl.prs.p3.m.pl</m>	verb, pi“el, imperfect, second person, masculine, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.impf.p2.m.sg.prs.p1.u.pl</m>	verb, pi“el, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.piel.impf.p2.m.sg.prs.p1.u.sg</m>	verb, pi“el, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.impf.p2.m.sg.prs.p3.f.sg</m>	verb, pi“el, imperfect, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.impf.p2.m.sg.prs.p3.m.pl</m>	verb, pi“el, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.impf.p2.m.sg.prs.p3.m.sg</m>	verb, pi“el, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.impf.p3.f.sg.prs.p1.u.pl</m>	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.piel.impf.p3.f.sg.prs.p1.u.sg</m>	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.impf.p3.f.sg.prs.p2.f.sg</m>	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.piel.impf.p3.f.sg.prs.p2.m.pl</m>	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, second person, masculine, plural
+<m>4c.verb.piel.impf.p3.f.sg.prs.p2.m.sg</m>	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.impf.p3.f.sg.prs.p3.f.sg</m>	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.impf.p3.f.sg.prs.p3.m.pl</m>	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.impf.p3.f.sg.prs.p3.m.sg</m>	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.impf.p3.m.pl.prs.p1.u.pl</m>	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, plural
+<m>4c.verb.piel.impf.p3.m.pl.prs.p1.u.sg</m>	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.impf.p3.m.pl.prs.p2.f.sg</m>	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, second person, feminine, singular
+<m>4c.verb.piel.impf.p3.m.pl.prs.p2.m.sg</m>	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.impf.p3.m.pl.prs.p3.f.sg</m>	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.impf.p3.m.pl.prs.p3.m.pl</m>	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.impf.p3.m.pl.prs.p3.m.sg</m>	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.impf.p3.m.sg.prs.p1.u.pl</m>	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.piel.impf.p3.m.sg.prs.p1.u.sg</m>	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.impf.p3.m.sg.prs.p2.f.sg</m>	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.piel.impf.p3.m.sg.prs.p2.m.sg</m>	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.impf.p3.m.sg.prs.p3.f.sg</m>	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.impf.p3.m.sg.prs.p3.m.pl</m>	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.impf.p3.m.sg.prs.p3.m.sg</m>	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.impv.p2.f.sg.prs.p1.u.sg</m>	verb, pi“el, imperative, second person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.impv.p2.m.pl.prs.p1.u.pl</m>	verb, pi“el, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, plural
+<m>4c.verb.piel.impv.p2.m.pl.prs.p1.u.sg</m>	verb, pi“el, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.impv.p2.m.pl.prs.p3.m.sg</m>	verb, pi“el, imperative, second person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.impv.p2.m.sg.prs.p1.u.pl</m>	verb, pi“el, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.piel.impv.p2.m.sg.prs.p1.u.sg</m>	verb, pi“el, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.impv.p2.m.sg.prs.p3.f.sg</m>	verb, pi“el, imperative, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.impv.p2.m.sg.prs.p3.m.pl</m>	verb, pi“el, imperative, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.impv.p2.m.sg.prs.p3.m.sg</m>	verb, pi“el, imperative, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.infc.u.u.u.a.prs.p1.u.pl</m>	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.verb.piel.infc.u.u.u.a.prs.p1.u.sg</m>	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.infc.u.u.u.a.prs.p2.f.pl</m>	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, feminine, plural
+<m>4c.verb.piel.infc.u.u.u.a.prs.p2.f.sg</m>	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.verb.piel.infc.u.u.u.a.prs.p2.m.pl</m>	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.verb.piel.infc.u.u.u.a.prs.p2.m.sg</m>	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.infc.u.u.u.a.prs.p3.f.pl</m>	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, plural
+<m>4c.verb.piel.infc.u.u.u.a.prs.p3.f.sg</m>	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.infc.u.u.u.a.prs.p3.m.pl</m>	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.infc.u.u.u.a.prs.p3.m.sg</m>	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.perf.p1.u.pl.prs.p2.m.pl</m>	verb, pi“el, perfect, first person, unknown, plural, pronominal suffix, second person, masculine, plural
+<m>4c.verb.piel.perf.p1.u.pl.prs.p2.m.sg</m>	verb, pi“el, perfect, first person, unknown, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.perf.p1.u.pl.prs.p3.m.sg</m>	verb, pi“el, perfect, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.perf.p1.u.sg.prs.p2.f.sg</m>	verb, pi“el, perfect, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.piel.perf.p1.u.sg.prs.p2.m.sg</m>	verb, pi“el, perfect, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.perf.p1.u.sg.prs.p3.f.sg</m>	verb, pi“el, perfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.perf.p1.u.sg.prs.p3.m.pl</m>	verb, pi“el, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.perf.p1.u.sg.prs.p3.m.sg</m>	verb, pi“el, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.perf.p2.f.sg.prs.p1.u.sg</m>	verb, pi“el, perfect, second person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.perf.p2.m.sg.prs.p1.u.pl</m>	verb, pi“el, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.piel.perf.p2.m.sg.prs.p1.u.sg</m>	verb, pi“el, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.perf.p2.m.sg.prs.p3.f.sg</m>	verb, pi“el, perfect, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.perf.p2.m.sg.prs.p3.m.pl</m>	verb, pi“el, perfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.perf.p2.m.sg.prs.p3.m.sg</m>	verb, pi“el, perfect, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.perf.p3.f.sg.prs.p1.u.sg</m>	verb, pi“el, perfect, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.perf.p3.f.sg.prs.p2.f.sg</m>	verb, pi“el, perfect, third person, feminine, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.piel.perf.p3.f.sg.prs.p2.m.sg</m>	verb, pi“el, perfect, third person, feminine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.perf.p3.f.sg.prs.p3.f.sg</m>	verb, pi“el, perfect, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.perf.p3.f.sg.prs.p3.m.pl</m>	verb, pi“el, perfect, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.perf.p3.f.sg.prs.p3.m.sg</m>	verb, pi“el, perfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.perf.p3.m.sg.prs.p1.u.pl</m>	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.piel.perf.p3.m.sg.prs.p1.u.sg</m>	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.perf.p3.m.sg.prs.p2.f.sg</m>	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.piel.perf.p3.m.sg.prs.p2.m.sg</m>	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.perf.p3.m.sg.prs.p3.f.pl</m>	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, plural
+<m>4c.verb.piel.perf.p3.m.sg.prs.p3.f.sg</m>	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.perf.p3.m.sg.prs.p3.m.pl</m>	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.perf.p3.m.sg.prs.p3.m.sg</m>	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.perf.p3.u.pl.prs.p1.u.sg</m>	verb, pi“el, perfect, third person, unknown, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.perf.p3.u.pl.prs.p2.f.sg</m>	verb, pi“el, perfect, third person, unknown, plural, pronominal suffix, second person, feminine, singular
+<m>4c.verb.piel.perf.p3.u.pl.prs.p2.m.sg</m>	verb, pi“el, perfect, third person, unknown, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.perf.p3.u.pl.prs.p3.f.sg</m>	verb, pi“el, perfect, third person, unknown, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.perf.p3.u.pl.prs.p3.m.pl</m>	verb, pi“el, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.perf.p3.u.pl.prs.p3.m.sg</m>	verb, pi“el, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.ptca.u.m.pl.a.prs.p1.u.sg</m>	verb, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.ptca.u.m.pl.a.prs.p2.m.pl</m>	verb, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.verb.piel.ptca.u.m.pl.a.prs.p2.m.sg</m>	verb, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.ptca.u.m.pl.a.prs.p3.f.sg</m>	verb, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.ptca.u.m.pl.a.prs.p3.m.sg</m>	verb, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.ptca.u.m.sg.a.prs.p1.u.pl</m>	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.verb.piel.ptca.u.m.sg.a.prs.p1.u.sg</m>	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.ptca.u.m.sg.a.prs.p2.f.sg</m>	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.verb.piel.ptca.u.m.sg.a.prs.p2.m.pl</m>	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.verb.piel.ptca.u.m.sg.a.prs.p2.m.sg</m>	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.ptca.u.m.sg.a.prs.p3.f.sg</m>	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.ptca.u.m.sg.a.prs.p3.m.pl</m>	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.ptca.u.m.sg.a.prs.p3.m.sg</m>	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.wayq.p1.u.pl.prs.p2.m.sg</m>	verb, pi“el, wayyiqtol, first person, unknown, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.wayq.p1.u.sg.prs.p2.m.sg</m>	verb, pi“el, wayyiqtol, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.wayq.p1.u.sg.prs.p3.f.sg</m>	verb, pi“el, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.wayq.p1.u.sg.prs.p3.m.pl</m>	verb, pi“el, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.wayq.p1.u.sg.prs.p3.m.sg</m>	verb, pi“el, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.wayq.p2.f.sg.prs.p3.m.pl</m>	verb, pi“el, wayyiqtol, second person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.wayq.p2.m.pl.prs.p1.u.sg</m>	verb, pi“el, wayyiqtol, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.wayq.p2.m.sg.prs.p1.u.sg</m>	verb, pi“el, wayyiqtol, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.wayq.p2.m.sg.prs.p3.f.sg</m>	verb, pi“el, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.wayq.p2.m.sg.prs.p3.m.pl</m>	verb, pi“el, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.wayq.p2.m.sg.prs.p3.m.sg</m>	verb, pi“el, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.wayq.p3.f.sg.prs.p1.u.sg</m>	verb, pi“el, wayyiqtol, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.wayq.p3.f.sg.prs.p3.f.sg</m>	verb, pi“el, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.wayq.p3.f.sg.prs.p3.m.pl</m>	verb, pi“el, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.wayq.p3.f.sg.prs.p3.m.sg</m>	verb, pi“el, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.wayq.p3.m.pl.prs.p1.u.pl</m>	verb, pi“el, wayyiqtol, third person, masculine, plural, pronominal suffix, first person, unknown, plural
+<m>4c.verb.piel.wayq.p3.m.pl.prs.p1.u.sg</m>	verb, pi“el, wayyiqtol, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.wayq.p3.m.pl.prs.p3.f.sg</m>	verb, pi“el, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.wayq.p3.m.pl.prs.p3.m.pl</m>	verb, pi“el, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.wayq.p3.m.pl.prs.p3.m.sg</m>	verb, pi“el, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.piel.wayq.p3.m.sg.prs.p1.u.pl</m>	verb, pi“el, wayyiqtol, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.piel.wayq.p3.m.sg.prs.p1.u.sg</m>	verb, pi“el, wayyiqtol, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.piel.wayq.p3.m.sg.prs.p2.m.sg</m>	verb, pi“el, wayyiqtol, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.piel.wayq.p3.m.sg.prs.p3.f.sg</m>	verb, pi“el, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.piel.wayq.p3.m.sg.prs.p3.m.pl</m>	verb, pi“el, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.piel.wayq.p3.m.sg.prs.p3.m.sg</m>	verb, pi“el, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.impf.p1.u.pl.prs.p2.m.sg</m>	verb, qal, imperfect, first person, unknown, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.impf.p1.u.pl.prs.p3.f.sg</m>	verb, qal, imperfect, first person, unknown, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.impf.p1.u.pl.prs.p3.m.pl</m>	verb, qal, imperfect, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.impf.p1.u.pl.prs.p3.m.sg</m>	verb, qal, imperfect, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.impf.p1.u.sg.prs.p2.f.sg</m>	verb, qal, imperfect, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.impf.p1.u.sg.prs.p2.m.sg</m>	verb, qal, imperfect, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.impf.p1.u.sg.prs.p3.f.sg</m>	verb, qal, imperfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.impf.p1.u.sg.prs.p3.m.pl</m>	verb, qal, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.impf.p1.u.sg.prs.p3.m.sg</m>	verb, qal, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.impf.p2.m.pl.prs.p1.u.sg</m>	verb, qal, imperfect, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.impf.p2.m.pl.prs.p3.f.sg</m>	verb, qal, imperfect, second person, masculine, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.impf.p2.m.pl.prs.p3.m.pl</m>	verb, qal, imperfect, second person, masculine, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.impf.p2.m.pl.prs.p3.m.sg</m>	verb, qal, imperfect, second person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.impf.p2.m.sg.prs.p1.u.pl</m>	verb, qal, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.impf.p2.m.sg.prs.p1.u.sg</m>	verb, qal, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.impf.p2.m.sg.prs.p3.f.sg</m>	verb, qal, imperfect, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.impf.p2.m.sg.prs.p3.m.pl</m>	verb, qal, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.impf.p2.m.sg.prs.p3.m.sg</m>	verb, qal, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.impf.p3.f.pl.prs.p1.u.sg</m>	verb, qal, imperfect, third person, feminine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.impf.p3.f.sg.prs.p1.u.pl</m>	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.impf.p3.f.sg.prs.p1.u.sg</m>	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.impf.p3.f.sg.prs.p2.f.sg</m>	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.impf.p3.f.sg.prs.p2.m.pl</m>	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, second person, masculine, plural
+<m>4c.verb.qal.impf.p3.f.sg.prs.p2.m.sg</m>	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.impf.p3.f.sg.prs.p3.f.sg</m>	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.impf.p3.f.sg.prs.p3.m.pl</m>	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.impf.p3.f.sg.prs.p3.m.sg</m>	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.impf.p3.m.pl.prs.p1.u.pl</m>	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.impf.p3.m.pl.prs.p1.u.sg</m>	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.impf.p3.m.pl.prs.p2.f.sg</m>	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.impf.p3.m.pl.prs.p2.m.pl</m>	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, second person, masculine, plural
+<m>4c.verb.qal.impf.p3.m.pl.prs.p2.m.sg</m>	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.impf.p3.m.pl.prs.p3.f.sg</m>	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.impf.p3.m.pl.prs.p3.m.pl</m>	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.impf.p3.m.pl.prs.p3.m.sg</m>	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.impf.p3.m.sg.prs.p1.u.pl</m>	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.impf.p3.m.sg.prs.p1.u.sg</m>	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.impf.p3.m.sg.prs.p2.f.sg</m>	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.impf.p3.m.sg.prs.p2.m.sg</m>	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.impf.p3.m.sg.prs.p3.f.sg</m>	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.impf.p3.m.sg.prs.p3.m.pl</m>	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.impf.p3.m.sg.prs.p3.m.sg</m>	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.impv.p2.m.pl.prs.p1.u.pl</m>	verb, qal, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.impv.p2.m.pl.prs.p1.u.sg</m>	verb, qal, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.impv.p2.m.pl.prs.p3.f.sg</m>	verb, qal, imperative, second person, masculine, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.impv.p2.m.pl.prs.p3.m.pl</m>	verb, qal, imperative, second person, masculine, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.impv.p2.m.pl.prs.p3.m.sg</m>	verb, qal, imperative, second person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.impv.p2.m.sg.prs.p1.u.pl</m>	verb, qal, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.impv.p2.m.sg.prs.p1.u.sg</m>	verb, qal, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.impv.p2.m.sg.prs.p3.f.sg</m>	verb, qal, imperative, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.impv.p2.m.sg.prs.p3.m.pl</m>	verb, qal, imperative, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.impv.p2.m.sg.prs.p3.m.sg</m>	verb, qal, imperative, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.infc.u.u.u.a.prs.p1.u.pl</m>	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.infc.u.u.u.a.prs.p1.u.sg</m>	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.infc.u.u.u.a.prs.p2.f.sg</m>	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.infc.u.u.u.a.prs.p2.m.pl</m>	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.verb.qal.infc.u.u.u.a.prs.p2.m.sg</m>	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.infc.u.u.u.a.prs.p3.f.pl</m>	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, plural
+<m>4c.verb.qal.infc.u.u.u.a.prs.p3.f.sg</m>	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.infc.u.u.u.a.prs.p3.m.pl</m>	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.infc.u.u.u.a.prs.p3.m.sg</m>	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.perf.p1.u.pl.prs.p2.m.sg</m>	verb, qal, perfect, first person, unknown, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.perf.p1.u.pl.prs.p3.f.sg</m>	verb, qal, perfect, first person, unknown, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.perf.p1.u.pl.prs.p3.m.pl</m>	verb, qal, perfect, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.perf.p1.u.pl.prs.p3.m.sg</m>	verb, qal, perfect, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.perf.p1.u.sg.prs.p1.u.sg</m>	verb, qal, perfect, first person, unknown, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.perf.p1.u.sg.prs.p2.f.sg</m>	verb, qal, perfect, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.perf.p1.u.sg.prs.p2.m.sg</m>	verb, qal, perfect, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.perf.p1.u.sg.prs.p3.f.pl</m>	verb, qal, perfect, first person, unknown, singular, pronominal suffix, third person, feminine, plural
+<m>4c.verb.qal.perf.p1.u.sg.prs.p3.f.sg</m>	verb, qal, perfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.perf.p1.u.sg.prs.p3.m.pl</m>	verb, qal, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.perf.p1.u.sg.prs.p3.m.sg</m>	verb, qal, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.perf.p2.f.sg.prs.p1.u.sg</m>	verb, qal, perfect, second person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.perf.p2.f.sg.prs.p3.m.pl</m>	verb, qal, perfect, second person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.perf.p2.f.sg.prs.p3.m.sg</m>	verb, qal, perfect, second person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.perf.p2.m.pl.prs.p1.u.sg</m>	verb, qal, perfect, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.perf.p2.m.sg.prs.p1.u.pl</m>	verb, qal, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.perf.p2.m.sg.prs.p1.u.sg</m>	verb, qal, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.perf.p2.m.sg.prs.p3.f.sg</m>	verb, qal, perfect, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.perf.p2.m.sg.prs.p3.m.pl</m>	verb, qal, perfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.perf.p2.m.sg.prs.p3.m.sg</m>	verb, qal, perfect, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.perf.p3.f.sg.prs.p1.u.pl</m>	verb, qal, perfect, third person, feminine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.perf.p3.f.sg.prs.p1.u.sg</m>	verb, qal, perfect, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.perf.p3.f.sg.prs.p2.f.sg</m>	verb, qal, perfect, third person, feminine, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.perf.p3.f.sg.prs.p2.m.sg</m>	verb, qal, perfect, third person, feminine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.perf.p3.f.sg.prs.p3.f.sg</m>	verb, qal, perfect, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.perf.p3.f.sg.prs.p3.m.pl</m>	verb, qal, perfect, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.perf.p3.f.sg.prs.p3.m.sg</m>	verb, qal, perfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.perf.p3.m.sg.prs.p1.u.pl</m>	verb, qal, perfect, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.perf.p3.m.sg.prs.p1.u.sg</m>	verb, qal, perfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.perf.p3.m.sg.prs.p2.f.sg</m>	verb, qal, perfect, third person, masculine, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.perf.p3.m.sg.prs.p2.m.sg</m>	verb, qal, perfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.perf.p3.m.sg.prs.p3.f.sg</m>	verb, qal, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.perf.p3.m.sg.prs.p3.m.pl</m>	verb, qal, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.perf.p3.m.sg.prs.p3.m.sg</m>	verb, qal, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.perf.p3.u.pl.prs.p1.u.pl</m>	verb, qal, perfect, third person, unknown, plural, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.perf.p3.u.pl.prs.p1.u.sg</m>	verb, qal, perfect, third person, unknown, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.perf.p3.u.pl.prs.p2.f.sg</m>	verb, qal, perfect, third person, unknown, plural, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.perf.p3.u.pl.prs.p2.m.sg</m>	verb, qal, perfect, third person, unknown, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.perf.p3.u.pl.prs.p3.f.sg</m>	verb, qal, perfect, third person, unknown, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.perf.p3.u.pl.prs.p3.m.pl</m>	verb, qal, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.perf.p3.u.pl.prs.p3.m.sg</m>	verb, qal, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.ptca.u.f.pl.a.prs.p2.f.sg</m>	verb, qal, participle, unknown, feminine, plural, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.ptca.u.f.pl.a.prs.p3.m.sg</m>	verb, qal, participle, unknown, feminine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.ptca.u.f.sg.a.prs.p2.f.sg</m>	verb, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.ptca.u.f.sg.a.prs.p3.m.sg</m>	verb, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.ptca.u.m.pl.a.prs.p1.u.pl</m>	verb, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.ptca.u.m.pl.a.prs.p2.f.sg</m>	verb, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.ptca.u.m.pl.a.prs.p2.m.pl</m>	verb, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+<m>4c.verb.qal.ptca.u.m.pl.a.prs.p2.m.sg</m>	verb, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.ptca.u.m.pl.a.prs.p3.f.sg</m>	verb, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.ptca.u.m.pl.a.prs.p3.m.sg</m>	verb, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.ptca.u.m.sg.a.prs.p1.u.pl</m>	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.ptca.u.m.sg.a.prs.p1.u.sg</m>	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.ptca.u.m.sg.a.prs.p2.f.sg</m>	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.ptca.u.m.sg.a.prs.p2.m.sg</m>	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.ptca.u.m.sg.a.prs.p3.f.sg</m>	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.ptca.u.m.sg.a.prs.p3.m.pl</m>	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.ptca.u.m.sg.a.prs.p3.m.sg</m>	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.wayq.p1.u.pl.prs.p3.f.sg</m>	verb, qal, wayyiqtol, first person, unknown, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.wayq.p1.u.pl.prs.p3.m.pl</m>	verb, qal, wayyiqtol, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.wayq.p1.u.pl.prs.p3.m.sg</m>	verb, qal, wayyiqtol, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.wayq.p1.u.sg.prs.p2.f.sg</m>	verb, qal, wayyiqtol, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+<m>4c.verb.qal.wayq.p1.u.sg.prs.p2.m.sg</m>	verb, qal, wayyiqtol, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.wayq.p1.u.sg.prs.p3.f.sg</m>	verb, qal, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.wayq.p1.u.sg.prs.p3.m.pl</m>	verb, qal, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.wayq.p1.u.sg.prs.p3.m.sg</m>	verb, qal, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.wayq.p2.f.sg.prs.p3.m.pl</m>	verb, qal, wayyiqtol, second person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.wayq.p2.m.sg.prs.p1.u.pl</m>	verb, qal, wayyiqtol, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.wayq.p2.m.sg.prs.p1.u.sg</m>	verb, qal, wayyiqtol, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.wayq.p2.m.sg.prs.p3.f.sg</m>	verb, qal, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.wayq.p2.m.sg.prs.p3.m.pl</m>	verb, qal, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.wayq.p2.m.sg.prs.p3.m.sg</m>	verb, qal, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.wayq.p3.f.sg.prs.p1.u.sg</m>	verb, qal, wayyiqtol, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.wayq.p3.f.sg.prs.p3.f.sg</m>	verb, qal, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.wayq.p3.f.sg.prs.p3.m.pl</m>	verb, qal, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.wayq.p3.f.sg.prs.p3.m.sg</m>	verb, qal, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.wayq.p3.m.pl.prs.p1.u.sg</m>	verb, qal, wayyiqtol, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.wayq.p3.m.pl.prs.p2.m.sg</m>	verb, qal, wayyiqtol, third person, masculine, plural, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.wayq.p3.m.pl.prs.p3.f.sg</m>	verb, qal, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.wayq.p3.m.pl.prs.p3.m.pl</m>	verb, qal, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.wayq.p3.m.pl.prs.p3.m.sg</m>	verb, qal, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+<m>4c.verb.qal.wayq.p3.m.sg.prs.p1.u.pl</m>	verb, qal, wayyiqtol, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+<m>4c.verb.qal.wayq.p3.m.sg.prs.p1.u.sg</m>	verb, qal, wayyiqtol, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+<m>4c.verb.qal.wayq.p3.m.sg.prs.p2.m.sg</m>	verb, qal, wayyiqtol, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.qal.wayq.p3.m.sg.prs.p3.f.sg</m>	verb, qal, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.qal.wayq.p3.m.sg.prs.p3.m.pl</m>	verb, qal, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+<m>4c.verb.qal.wayq.p3.m.sg.prs.p3.m.sg</m>	verb, qal, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+<m>4c.verb.shaf.impf.p3.m.sg.prs.p2.m.pl</m>	verb, shaf‘el, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, plural
+<m>4c.verb.shaf.impf.p3.m.sg.prs.p2.m.sg</m>	verb, shaf‘el, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+<m>4c.verb.shaf.infc.u.u.u.a.prs.p1.u.pl</m>	verb, shaf‘el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, plural
+<m>4c.verb.shaf.infc.u.u.u.a.prs.p2.m.sg</m>	verb, shaf‘el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+<m>4c.verb.shaf.infc.u.u.u.a.prs.p3.f.sg</m>	verb, shaf‘el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+<m>4c.verb.shaf.perf.p3.m.sg.prs.p3.f.sg</m>	verb, shaf‘el, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+<m>4c.verb.tif.perf.p1.u.sg.prs.p2.m.pl</m>	verb, tif‘al, perfect, first person, unknown, singular, pronominal suffix, second person, masculine, plural
