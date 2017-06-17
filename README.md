@@ -1,4 +1,4 @@
-# BHS-morphology
+# BHS-morphology [<a href="https://biblebento.com/" target="_blank">BibleBento.com</a>]
 Single-liner morphological codes for all words in Hebrew Bible (Biblia Hebraica Stuttgartensia, BHS, 5th edition)<br />
 This work is built on raw materials found at: https://github.com/ETCBC/text-fabric-data<br />
 <br />
